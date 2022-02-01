@@ -1,0 +1,3837 @@
+country,date,HIV Rate,Income Level
+Australia,2017,0.1,HIC
+Australia,2016,0.1,HIC
+Australia,2015,0.1,HIC
+Australia,2014,0.1,HIC
+Australia,2013,0.1,HIC
+Australia,2012,0.1,HIC
+Australia,2011,0.1,HIC
+Australia,2010,0.1,HIC
+Australia,2009,0.1,HIC
+Australia,2008,0.1,HIC
+Australia,2007,0.1,HIC
+Australia,2006,0.1,HIC
+Australia,2005,0.1,HIC
+Australia,2004,0.1,HIC
+Australia,2003,0.1,HIC
+Australia,2002,0.1,HIC
+Australia,2001,0.1,HIC
+Australia,2000,0.1,HIC
+Australia,1999,0.1,HIC
+Australia,1998,0.1,HIC
+Australia,1997,0.1,HIC
+Australia,1996,0.1,HIC
+Australia,1995,0.1,HIC
+Australia,1994,0.1,HIC
+Australia,1993,0.1,HIC
+Australia,1992,0.1,HIC
+Australia,1991,0.1,HIC
+Australia,1990,0.1,HIC
+"Bahamas, The",2017,0.6,HIC
+"Bahamas, The",2016,0.6,HIC
+"Bahamas, The",2015,0.6,HIC
+"Bahamas, The",2014,0.6,HIC
+"Bahamas, The",2013,0.6,HIC
+"Bahamas, The",2012,0.6,HIC
+"Bahamas, The",2011,0.6,HIC
+"Bahamas, The",2010,0.6,HIC
+"Bahamas, The",2009,0.6,HIC
+"Bahamas, The",2008,0.6,HIC
+"Bahamas, The",2007,0.5,HIC
+"Bahamas, The",2006,0.5,HIC
+"Bahamas, The",2005,0.5,HIC
+"Bahamas, The",2004,0.5,HIC
+"Bahamas, The",2003,0.5,HIC
+"Bahamas, The",2002,0.4,HIC
+"Bahamas, The",2001,0.4,HIC
+"Bahamas, The",2000,0.4,HIC
+"Bahamas, The",1999,0.4,HIC
+"Bahamas, The",1998,0.5,HIC
+"Bahamas, The",1997,0.5,HIC
+"Bahamas, The",1996,0.6,HIC
+"Bahamas, The",1995,0.6,HIC
+"Bahamas, The",1994,0.7,HIC
+"Bahamas, The",1993,0.9,HIC
+"Bahamas, The",1992,1.0,HIC
+"Bahamas, The",1991,1.2,HIC
+"Bahamas, The",1990,1.3,HIC
+Barbados,2017,0.3,HIC
+Barbados,2016,0.3,HIC
+Barbados,2015,0.3,HIC
+Barbados,2014,0.3,HIC
+Barbados,2013,0.3,HIC
+Barbados,2012,0.3,HIC
+Barbados,2011,0.3,HIC
+Barbados,2010,0.3,HIC
+Barbados,2009,0.3,HIC
+Barbados,2008,0.3,HIC
+Barbados,2007,0.3,HIC
+Barbados,2006,0.3,HIC
+Barbados,2005,0.3,HIC
+Barbados,2004,0.3,HIC
+Barbados,2003,0.3,HIC
+Barbados,2002,0.3,HIC
+Barbados,2001,0.3,HIC
+Barbados,2000,0.3,HIC
+Barbados,1999,0.3,HIC
+Barbados,1998,0.2,HIC
+Barbados,1997,0.2,HIC
+Barbados,1996,0.2,HIC
+Barbados,1995,0.2,HIC
+Barbados,1994,0.2,HIC
+Barbados,1993,0.2,HIC
+Barbados,1992,0.2,HIC
+Barbados,1991,0.1,HIC
+Barbados,1990,0.1,HIC
+Chile,2017,0.2,HIC
+Chile,2016,0.2,HIC
+Chile,2015,0.2,HIC
+Chile,2014,0.2,HIC
+Chile,2013,0.2,HIC
+Chile,2012,0.1,HIC
+Chile,2011,0.1,HIC
+Chile,2010,0.1,HIC
+Chile,2009,0.1,HIC
+Chile,2008,0.1,HIC
+Chile,2007,0.1,HIC
+Chile,2006,0.1,HIC
+Chile,2005,0.1,HIC
+Chile,2004,0.1,HIC
+Chile,2003,0.1,HIC
+Chile,2002,0.1,HIC
+Chile,2001,0.1,HIC
+Chile,2000,0.1,HIC
+Chile,1999,0.1,HIC
+Chile,1998,0.1,HIC
+Chile,1997,0.1,HIC
+Chile,1996,0.1,HIC
+Chile,1995,0.1,HIC
+Chile,1994,0.1,HIC
+Chile,1993,0.1,HIC
+Chile,1992,0.1,HIC
+Chile,1991,0.1,HIC
+Chile,1990,0.1,HIC
+Czech Republic,2017,0.1,HIC
+Czech Republic,2016,0.1,HIC
+Czech Republic,2015,0.1,HIC
+Czech Republic,2014,0.1,HIC
+Czech Republic,2013,0.1,HIC
+Czech Republic,2012,0.1,HIC
+Czech Republic,2011,0.1,HIC
+Czech Republic,2010,0.1,HIC
+Czech Republic,2009,0.1,HIC
+Czech Republic,2008,0.1,HIC
+Czech Republic,2007,0.1,HIC
+Czech Republic,2006,0.1,HIC
+Czech Republic,2005,0.1,HIC
+Czech Republic,2004,0.1,HIC
+Czech Republic,2003,0.1,HIC
+Czech Republic,2002,0.1,HIC
+Czech Republic,2001,0.1,HIC
+Czech Republic,2000,0.1,HIC
+Czech Republic,1999,0.1,HIC
+Czech Republic,1998,0.1,HIC
+Czech Republic,1997,0.1,HIC
+Czech Republic,1996,0.1,HIC
+Czech Republic,1995,0.1,HIC
+Czech Republic,1994,0.1,HIC
+Czech Republic,1993,0.1,HIC
+Czech Republic,1992,0.1,HIC
+Czech Republic,1991,0.1,HIC
+Czech Republic,1990,0.1,HIC
+Germany,2017,0.1,HIC
+Germany,2016,0.1,HIC
+Germany,2015,0.1,HIC
+Germany,2014,0.1,HIC
+Germany,2013,0.1,HIC
+Germany,2012,0.1,HIC
+Germany,2011,0.1,HIC
+Germany,2010,0.1,HIC
+Germany,2009,0.1,HIC
+Germany,2008,0.1,HIC
+Germany,2007,0.1,HIC
+Germany,2006,0.1,HIC
+Germany,2005,0.1,HIC
+Germany,2004,0.1,HIC
+Germany,2003,0.1,HIC
+Germany,2002,0.1,HIC
+Germany,2001,0.1,HIC
+Germany,2000,0.1,HIC
+Germany,1999,0.1,HIC
+Germany,1998,0.1,HIC
+Germany,1997,0.1,HIC
+Germany,1996,0.1,HIC
+Germany,1995,0.1,HIC
+Germany,1994,0.1,HIC
+Germany,1993,0.1,HIC
+Germany,1992,0.1,HIC
+Germany,1991,0.1,HIC
+Germany,1990,0.1,HIC
+Denmark,2017,0.1,HIC
+Denmark,2016,0.1,HIC
+Denmark,2015,0.1,HIC
+Denmark,2014,0.1,HIC
+Denmark,2013,0.1,HIC
+Denmark,2012,0.1,HIC
+Denmark,2011,0.1,HIC
+Denmark,2010,0.1,HIC
+Denmark,2009,0.1,HIC
+Denmark,2008,0.1,HIC
+Denmark,2007,0.1,HIC
+Denmark,2006,0.1,HIC
+Denmark,2005,0.1,HIC
+Denmark,2004,0.1,HIC
+Denmark,2003,0.1,HIC
+Denmark,2002,0.1,HIC
+Denmark,2001,0.1,HIC
+Denmark,2000,0.1,HIC
+Denmark,1999,0.1,HIC
+Denmark,1998,0.1,HIC
+Denmark,1997,0.1,HIC
+Denmark,1996,0.1,HIC
+Denmark,1995,0.1,HIC
+Denmark,1994,0.1,HIC
+Denmark,1993,0.1,HIC
+Denmark,1992,0.1,HIC
+Denmark,1991,0.1,HIC
+Denmark,1990,0.1,HIC
+Spain,2017,0.1,HIC
+Spain,2016,0.1,HIC
+Spain,2015,0.1,HIC
+Spain,2014,0.1,HIC
+Spain,2013,0.1,HIC
+Spain,2012,0.1,HIC
+Spain,2011,0.1,HIC
+Spain,2010,0.1,HIC
+Spain,2009,0.1,HIC
+Spain,2008,0.1,HIC
+Spain,2007,0.1,HIC
+Spain,2006,0.1,HIC
+Spain,2005,0.1,HIC
+Spain,2004,0.1,HIC
+Spain,2003,0.1,HIC
+Spain,2002,0.1,HIC
+Spain,2001,0.1,HIC
+Spain,2000,0.1,HIC
+Spain,1999,0.1,HIC
+Spain,1998,0.1,HIC
+Spain,1997,0.1,HIC
+Spain,1996,0.1,HIC
+Spain,1995,0.1,HIC
+Spain,1994,0.1,HIC
+Spain,1993,0.1,HIC
+Spain,1992,0.1,HIC
+Spain,1991,0.1,HIC
+Spain,1990,0.2,HIC
+Estonia,2017,0.1,HIC
+Estonia,2016,0.2,HIC
+Estonia,2015,0.2,HIC
+Estonia,2014,0.2,HIC
+Estonia,2013,0.2,HIC
+Estonia,2012,0.2,HIC
+Estonia,2011,0.2,HIC
+Estonia,2010,0.2,HIC
+Estonia,2009,0.1,HIC
+Estonia,2008,0.1,HIC
+Estonia,2007,0.1,HIC
+Estonia,2006,0.2,HIC
+Estonia,2005,0.2,HIC
+Estonia,2004,0.2,HIC
+Estonia,2003,0.3,HIC
+Estonia,2002,0.3,HIC
+Estonia,2001,0.4,HIC
+Estonia,2000,0.3,HIC
+Estonia,1999,0.2,HIC
+Estonia,1998,0.1,HIC
+Estonia,1997,0.1,HIC
+Estonia,1996,0.1,HIC
+Estonia,1995,0.1,HIC
+Estonia,1994,0.1,HIC
+Estonia,1993,0.1,HIC
+Estonia,1992,0.1,HIC
+Estonia,1991,0.1,HIC
+Estonia,1990,0.1,HIC
+Finland,2017,0.1,HIC
+Finland,2016,0.1,HIC
+Finland,2015,0.1,HIC
+Finland,2014,0.1,HIC
+Finland,2013,0.1,HIC
+Finland,2012,0.1,HIC
+Finland,2011,0.1,HIC
+Finland,2010,0.1,HIC
+Finland,2009,0.1,HIC
+Finland,2008,0.1,HIC
+Finland,2007,0.1,HIC
+Finland,2006,0.1,HIC
+Finland,2005,0.1,HIC
+Finland,2004,0.1,HIC
+Finland,2003,0.1,HIC
+Finland,2002,0.1,HIC
+Finland,2001,0.1,HIC
+Finland,2000,0.1,HIC
+Finland,1999,0.1,HIC
+Finland,1998,0.1,HIC
+Finland,1997,0.1,HIC
+Finland,1996,0.1,HIC
+Finland,1995,0.1,HIC
+Finland,1994,0.1,HIC
+Finland,1993,0.1,HIC
+Finland,1992,0.1,HIC
+Finland,1991,0.1,HIC
+Finland,1990,0.1,HIC
+France,2017,0.1,HIC
+France,2016,0.1,HIC
+France,2015,0.1,HIC
+France,2014,0.1,HIC
+France,2013,0.1,HIC
+France,2012,0.1,HIC
+France,2011,0.1,HIC
+France,2010,0.1,HIC
+France,2009,0.1,HIC
+France,2008,0.1,HIC
+France,2007,0.1,HIC
+France,2006,0.1,HIC
+France,2005,0.1,HIC
+France,2004,0.1,HIC
+France,2003,0.1,HIC
+France,2002,0.1,HIC
+France,2001,0.1,HIC
+France,2000,0.1,HIC
+France,1999,0.1,HIC
+France,1998,0.1,HIC
+France,1997,0.1,HIC
+France,1996,0.1,HIC
+France,1995,0.1,HIC
+France,1994,0.1,HIC
+France,1993,0.1,HIC
+France,1992,0.1,HIC
+France,1991,0.1,HIC
+France,1990,0.1,HIC
+Croatia,2017,0.1,HIC
+Croatia,2016,0.1,HIC
+Croatia,2015,0.1,HIC
+Croatia,2014,0.1,HIC
+Croatia,2013,0.1,HIC
+Croatia,2012,0.1,HIC
+Croatia,2011,0.1,HIC
+Croatia,2010,0.1,HIC
+Croatia,2009,0.1,HIC
+Croatia,2008,0.1,HIC
+Croatia,2007,0.1,HIC
+Croatia,2006,0.1,HIC
+Croatia,2005,0.1,HIC
+Croatia,2004,0.1,HIC
+Croatia,2003,0.1,HIC
+Croatia,2002,0.1,HIC
+Croatia,2001,0.1,HIC
+Croatia,2000,0.1,HIC
+Croatia,1999,0.1,HIC
+Croatia,1998,0.1,HIC
+Croatia,1997,0.1,HIC
+Croatia,1996,0.1,HIC
+Croatia,1995,0.1,HIC
+Croatia,1994,0.1,HIC
+Croatia,1993,0.1,HIC
+Croatia,1992,0.1,HIC
+Croatia,1991,0.1,HIC
+Croatia,1990,0.1,HIC
+Hungary,2017,0.1,HIC
+Hungary,2016,0.1,HIC
+Hungary,2015,0.1,HIC
+Hungary,2014,0.1,HIC
+Hungary,2013,0.1,HIC
+Hungary,2012,0.1,HIC
+Hungary,2011,0.1,HIC
+Hungary,2010,0.1,HIC
+Hungary,2009,0.1,HIC
+Hungary,2008,0.1,HIC
+Hungary,2007,0.1,HIC
+Hungary,2006,0.1,HIC
+Hungary,2005,0.1,HIC
+Hungary,2004,0.1,HIC
+Hungary,2003,0.1,HIC
+Hungary,2002,0.1,HIC
+Hungary,2001,0.1,HIC
+Hungary,2000,0.1,HIC
+Hungary,1999,0.1,HIC
+Hungary,1998,0.1,HIC
+Hungary,1997,0.1,HIC
+Hungary,1996,0.1,HIC
+Hungary,1995,0.1,HIC
+Hungary,1994,0.1,HIC
+Hungary,1993,0.1,HIC
+Hungary,1992,0.1,HIC
+Hungary,1991,0.1,HIC
+Hungary,1990,0.1,HIC
+Ireland,2017,0.1,HIC
+Ireland,2016,0.1,HIC
+Ireland,2015,0.1,HIC
+Ireland,2014,0.1,HIC
+Ireland,2013,0.1,HIC
+Ireland,2012,0.1,HIC
+Ireland,2011,0.1,HIC
+Ireland,2010,0.1,HIC
+Ireland,2009,0.1,HIC
+Ireland,2008,0.1,HIC
+Ireland,2007,0.1,HIC
+Ireland,2006,0.1,HIC
+Ireland,2005,0.1,HIC
+Ireland,2004,0.1,HIC
+Ireland,2003,0.1,HIC
+Ireland,2002,0.1,HIC
+Ireland,2001,0.1,HIC
+Ireland,2000,0.1,HIC
+Ireland,1999,0.1,HIC
+Ireland,1998,0.1,HIC
+Ireland,1997,0.1,HIC
+Ireland,1996,0.1,HIC
+Ireland,1995,0.1,HIC
+Ireland,1994,0.1,HIC
+Ireland,1993,0.1,HIC
+Ireland,1992,0.1,HIC
+Ireland,1991,0.1,HIC
+Ireland,1990,0.1,HIC
+Iceland,2017,0.1,HIC
+Iceland,2016,0.1,HIC
+Iceland,2015,0.1,HIC
+Iceland,2014,0.1,HIC
+Iceland,2013,0.1,HIC
+Iceland,2012,0.1,HIC
+Iceland,2011,0.1,HIC
+Iceland,2010,0.1,HIC
+Iceland,2009,0.1,HIC
+Iceland,2008,0.1,HIC
+Iceland,2007,0.1,HIC
+Iceland,2006,0.1,HIC
+Iceland,2005,0.1,HIC
+Iceland,2004,0.1,HIC
+Iceland,2003,0.1,HIC
+Iceland,2002,0.1,HIC
+Iceland,2001,0.1,HIC
+Iceland,2000,0.1,HIC
+Iceland,1999,0.1,HIC
+Iceland,1998,0.1,HIC
+Iceland,1997,0.1,HIC
+Iceland,1996,0.1,HIC
+Iceland,1995,0.1,HIC
+Iceland,1994,0.1,HIC
+Iceland,1993,0.1,HIC
+Iceland,1992,0.1,HIC
+Iceland,1991,0.1,HIC
+Iceland,1990,0.1,HIC
+Israel,2017,0.1,HIC
+Israel,2016,0.1,HIC
+Israel,2015,0.1,HIC
+Israel,2014,0.1,HIC
+Israel,2013,0.1,HIC
+Israel,2012,0.1,HIC
+Israel,2011,0.1,HIC
+Israel,2010,0.1,HIC
+Israel,2009,0.1,HIC
+Israel,2008,0.1,HIC
+Israel,2007,0.1,HIC
+Israel,2006,0.1,HIC
+Israel,2005,0.1,HIC
+Israel,2004,0.1,HIC
+Israel,2003,0.1,HIC
+Israel,2002,0.1,HIC
+Israel,2001,0.1,HIC
+Israel,2000,0.1,HIC
+Israel,1999,0.1,HIC
+Israel,1998,0.1,HIC
+Israel,1997,0.1,HIC
+Israel,1996,0.1,HIC
+Israel,1995,0.1,HIC
+Israel,1994,0.1,HIC
+Israel,1993,0.1,HIC
+Israel,1992,0.1,HIC
+Israel,1991,0.1,HIC
+Israel,1990,0.1,HIC
+Italy,2017,0.1,HIC
+Italy,2016,0.1,HIC
+Italy,2015,0.1,HIC
+Italy,2014,0.1,HIC
+Italy,2013,0.1,HIC
+Italy,2012,0.1,HIC
+Italy,2011,0.1,HIC
+Italy,2010,0.1,HIC
+Italy,2009,0.1,HIC
+Italy,2008,0.1,HIC
+Italy,2007,0.1,HIC
+Italy,2006,0.1,HIC
+Italy,2005,0.1,HIC
+Italy,2004,0.1,HIC
+Italy,2003,0.1,HIC
+Italy,2002,0.1,HIC
+Italy,2001,0.1,HIC
+Italy,2000,0.1,HIC
+Italy,1999,0.1,HIC
+Italy,1998,0.1,HIC
+Italy,1997,0.1,HIC
+Italy,1996,0.1,HIC
+Italy,1995,0.1,HIC
+Italy,1994,0.1,HIC
+Italy,1993,0.1,HIC
+Italy,1992,0.1,HIC
+Italy,1991,0.1,HIC
+Italy,1990,0.1,HIC
+Japan,2017,0.1,HIC
+Japan,2016,0.1,HIC
+Japan,2015,0.1,HIC
+Japan,2014,0.1,HIC
+Japan,2013,0.1,HIC
+Japan,2012,0.1,HIC
+Japan,2011,0.1,HIC
+Japan,2010,0.1,HIC
+Japan,2009,0.1,HIC
+Japan,2008,0.1,HIC
+Japan,2007,0.1,HIC
+Japan,2006,0.1,HIC
+Japan,2005,0.1,HIC
+Japan,2004,0.1,HIC
+Japan,2003,0.1,HIC
+Japan,2002,0.1,HIC
+Japan,2001,0.1,HIC
+Japan,2000,0.1,HIC
+Japan,1999,0.1,HIC
+Japan,1998,0.1,HIC
+Japan,1997,0.1,HIC
+Japan,1996,0.1,HIC
+Japan,1995,0.1,HIC
+Japan,1994,0.1,HIC
+Japan,1993,0.1,HIC
+Japan,1992,0.1,HIC
+Japan,1991,0.1,HIC
+Japan,1990,0.1,HIC
+Kuwait,2017,0.1,HIC
+Kuwait,2016,0.1,HIC
+Kuwait,2015,0.1,HIC
+Kuwait,2014,0.1,HIC
+Kuwait,2013,0.1,HIC
+Kuwait,2012,0.1,HIC
+Kuwait,2011,0.1,HIC
+Kuwait,2010,0.1,HIC
+Kuwait,2009,0.1,HIC
+Kuwait,2008,0.1,HIC
+Kuwait,2007,0.1,HIC
+Kuwait,2006,0.1,HIC
+Kuwait,2005,0.1,HIC
+Kuwait,2004,0.1,HIC
+Kuwait,2003,0.1,HIC
+Kuwait,2002,0.1,HIC
+Kuwait,2001,0.1,HIC
+Kuwait,2000,0.1,HIC
+Kuwait,1999,0.1,HIC
+Kuwait,1998,0.1,HIC
+Kuwait,1997,0.1,HIC
+Kuwait,1996,0.1,HIC
+Kuwait,1995,0.1,HIC
+Kuwait,1994,0.1,HIC
+Kuwait,1993,0.1,HIC
+Kuwait,1992,0.1,HIC
+Kuwait,1991,0.1,HIC
+Kuwait,1990,0.1,HIC
+Luxembourg,2017,0.1,HIC
+Luxembourg,2016,0.1,HIC
+Luxembourg,2015,0.1,HIC
+Luxembourg,2014,0.1,HIC
+Luxembourg,2013,0.1,HIC
+Luxembourg,2012,0.1,HIC
+Luxembourg,2011,0.1,HIC
+Luxembourg,2010,0.1,HIC
+Luxembourg,2009,0.1,HIC
+Luxembourg,2008,0.1,HIC
+Luxembourg,2007,0.1,HIC
+Luxembourg,2006,0.1,HIC
+Luxembourg,2005,0.1,HIC
+Luxembourg,2004,0.1,HIC
+Luxembourg,2003,0.1,HIC
+Luxembourg,2002,0.1,HIC
+Luxembourg,2001,0.1,HIC
+Luxembourg,2000,0.1,HIC
+Luxembourg,1999,0.1,HIC
+Luxembourg,1998,0.1,HIC
+Luxembourg,1997,0.1,HIC
+Luxembourg,1996,0.1,HIC
+Luxembourg,1995,0.1,HIC
+Luxembourg,1994,0.1,HIC
+Luxembourg,1993,0.1,HIC
+Luxembourg,1992,0.1,HIC
+Luxembourg,1991,0.1,HIC
+Luxembourg,1990,0.1,HIC
+Latvia,2017,0.1,HIC
+Latvia,2016,0.1,HIC
+Latvia,2015,0.1,HIC
+Latvia,2014,0.1,HIC
+Latvia,2013,0.1,HIC
+Latvia,2012,0.1,HIC
+Latvia,2011,0.1,HIC
+Latvia,2010,0.1,HIC
+Latvia,2009,0.1,HIC
+Latvia,2008,0.1,HIC
+Latvia,2007,0.1,HIC
+Latvia,2006,0.1,HIC
+Latvia,2005,0.1,HIC
+Latvia,2004,0.1,HIC
+Latvia,2003,0.1,HIC
+Latvia,2002,0.1,HIC
+Latvia,2001,0.1,HIC
+Latvia,2000,0.1,HIC
+Latvia,1999,0.1,HIC
+Latvia,1998,0.1,HIC
+Latvia,1997,0.1,HIC
+Latvia,1996,0.1,HIC
+Latvia,1995,0.1,HIC
+Latvia,1994,0.1,HIC
+Latvia,1993,0.1,HIC
+Latvia,1992,0.1,HIC
+Latvia,1991,0.1,HIC
+Latvia,1990,0.1,HIC
+Netherlands,2017,0.1,HIC
+Netherlands,2016,0.1,HIC
+Netherlands,2015,0.1,HIC
+Netherlands,2014,0.1,HIC
+Netherlands,2013,0.1,HIC
+Netherlands,2012,0.1,HIC
+Netherlands,2011,0.1,HIC
+Netherlands,2010,0.1,HIC
+Netherlands,2009,0.1,HIC
+Netherlands,2008,0.1,HIC
+Netherlands,2007,0.1,HIC
+Netherlands,2006,0.1,HIC
+Netherlands,2005,0.1,HIC
+Netherlands,2004,0.1,HIC
+Netherlands,2003,0.1,HIC
+Netherlands,2002,0.1,HIC
+Netherlands,2001,0.1,HIC
+Netherlands,2000,0.1,HIC
+Netherlands,1999,0.1,HIC
+Netherlands,1998,0.1,HIC
+Netherlands,1997,0.1,HIC
+Netherlands,1996,0.1,HIC
+Netherlands,1995,0.1,HIC
+Netherlands,1994,0.1,HIC
+Netherlands,1993,0.1,HIC
+Netherlands,1992,0.1,HIC
+Netherlands,1991,0.1,HIC
+Netherlands,1990,0.1,HIC
+Norway,2017,0.1,HIC
+Norway,2016,0.1,HIC
+Norway,2015,0.1,HIC
+Norway,2014,0.1,HIC
+Norway,2013,0.1,HIC
+Norway,2012,0.1,HIC
+Norway,2011,0.1,HIC
+Norway,2010,0.1,HIC
+Norway,2009,0.1,HIC
+Norway,2008,0.1,HIC
+Norway,2007,0.1,HIC
+Norway,2006,0.1,HIC
+Norway,2005,0.1,HIC
+Norway,2004,0.1,HIC
+Norway,2003,0.1,HIC
+Norway,2002,0.1,HIC
+Norway,2001,0.1,HIC
+Norway,2000,0.1,HIC
+Norway,1999,0.1,HIC
+Norway,1998,0.1,HIC
+Norway,1997,0.1,HIC
+Norway,1996,0.1,HIC
+Norway,1995,0.1,HIC
+Norway,1994,0.1,HIC
+Norway,1993,0.1,HIC
+Norway,1992,0.1,HIC
+Norway,1991,0.1,HIC
+Norway,1990,0.1,HIC
+New Zealand,2017,0.1,HIC
+New Zealand,2016,0.1,HIC
+New Zealand,2015,0.1,HIC
+New Zealand,2014,0.1,HIC
+New Zealand,2013,0.1,HIC
+New Zealand,2012,0.1,HIC
+New Zealand,2011,0.1,HIC
+New Zealand,2010,0.1,HIC
+New Zealand,2009,0.1,HIC
+New Zealand,2008,0.1,HIC
+New Zealand,2007,0.1,HIC
+New Zealand,2006,0.1,HIC
+New Zealand,2005,0.1,HIC
+New Zealand,2004,0.1,HIC
+New Zealand,2003,0.1,HIC
+New Zealand,2002,0.1,HIC
+New Zealand,2001,0.1,HIC
+New Zealand,2000,0.1,HIC
+New Zealand,1999,0.1,HIC
+New Zealand,1998,0.1,HIC
+New Zealand,1997,0.1,HIC
+New Zealand,1996,0.1,HIC
+New Zealand,1995,0.1,HIC
+New Zealand,1994,0.1,HIC
+New Zealand,1993,0.1,HIC
+New Zealand,1992,0.1,HIC
+New Zealand,1991,0.1,HIC
+New Zealand,1990,0.1,HIC
+Oman,2017,0.1,HIC
+Oman,2016,0.1,HIC
+Oman,2015,0.1,HIC
+Oman,2014,0.1,HIC
+Oman,2013,0.1,HIC
+Oman,2012,0.1,HIC
+Oman,2011,0.1,HIC
+Oman,2010,0.1,HIC
+Oman,2009,0.1,HIC
+Oman,2008,0.1,HIC
+Oman,2007,0.1,HIC
+Oman,2006,0.1,HIC
+Oman,2005,0.1,HIC
+Oman,2004,0.1,HIC
+Oman,2003,0.1,HIC
+Oman,2002,0.1,HIC
+Oman,2001,0.1,HIC
+Oman,2000,0.1,HIC
+Oman,1999,0.1,HIC
+Oman,1998,0.1,HIC
+Oman,1997,0.1,HIC
+Oman,1996,0.1,HIC
+Oman,1995,0.1,HIC
+Oman,1994,0.1,HIC
+Oman,1993,0.1,HIC
+Oman,1992,0.1,HIC
+Oman,1991,0.1,HIC
+Oman,1990,0.1,HIC
+Panama,2017,0.2,HIC
+Panama,2016,0.2,HIC
+Panama,2015,0.2,HIC
+Panama,2014,0.2,HIC
+Panama,2013,0.2,HIC
+Panama,2012,0.2,HIC
+Panama,2011,0.2,HIC
+Panama,2010,0.2,HIC
+Panama,2009,0.2,HIC
+Panama,2008,0.2,HIC
+Panama,2007,0.2,HIC
+Panama,2006,0.2,HIC
+Panama,2005,0.2,HIC
+Panama,2004,0.2,HIC
+Panama,2003,0.2,HIC
+Panama,2002,0.2,HIC
+Panama,2001,0.2,HIC
+Panama,2000,0.2,HIC
+Panama,1999,0.2,HIC
+Panama,1998,0.2,HIC
+Panama,1997,0.2,HIC
+Panama,1996,0.2,HIC
+Panama,1995,0.2,HIC
+Panama,1994,0.2,HIC
+Panama,1993,0.2,HIC
+Panama,1992,0.2,HIC
+Panama,1991,0.2,HIC
+Panama,1990,0.1,HIC
+Portugal,2017,0.1,HIC
+Portugal,2016,0.1,HIC
+Portugal,2015,0.1,HIC
+Portugal,2014,0.1,HIC
+Portugal,2013,0.1,HIC
+Portugal,2012,0.1,HIC
+Portugal,2011,0.1,HIC
+Portugal,2010,0.1,HIC
+Portugal,2009,0.1,HIC
+Portugal,2008,0.1,HIC
+Portugal,2007,0.1,HIC
+Portugal,2006,0.1,HIC
+Portugal,2005,0.1,HIC
+Portugal,2004,0.1,HIC
+Portugal,2003,0.1,HIC
+Portugal,2002,0.2,HIC
+Portugal,2001,0.2,HIC
+Portugal,2000,0.2,HIC
+Portugal,1999,0.2,HIC
+Portugal,1998,0.2,HIC
+Portugal,1997,0.2,HIC
+Portugal,1996,0.2,HIC
+Portugal,1995,0.2,HIC
+Portugal,1994,0.2,HIC
+Portugal,1993,0.2,HIC
+Portugal,1992,0.1,HIC
+Portugal,1991,0.1,HIC
+Portugal,1990,0.1,HIC
+Singapore,2017,0.1,HIC
+Singapore,2016,0.1,HIC
+Singapore,2015,0.1,HIC
+Singapore,2014,0.1,HIC
+Singapore,2013,0.1,HIC
+Singapore,2012,0.1,HIC
+Singapore,2011,0.1,HIC
+Singapore,2010,0.1,HIC
+Singapore,2009,0.1,HIC
+Singapore,2008,0.1,HIC
+Singapore,2007,0.1,HIC
+Singapore,2006,0.1,HIC
+Singapore,2005,0.1,HIC
+Singapore,2004,0.1,HIC
+Singapore,2003,0.1,HIC
+Singapore,2002,0.1,HIC
+Singapore,2001,0.1,HIC
+Singapore,2000,0.1,HIC
+Singapore,1999,0.1,HIC
+Singapore,1998,0.1,HIC
+Singapore,1997,0.1,HIC
+Singapore,1996,0.1,HIC
+Singapore,1995,0.1,HIC
+Singapore,1994,0.1,HIC
+Singapore,1993,0.1,HIC
+Singapore,1992,0.1,HIC
+Singapore,1991,0.1,HIC
+Singapore,1990,0.1,HIC
+Slovak Republic,2017,0.1,HIC
+Slovak Republic,2016,0.1,HIC
+Slovak Republic,2015,0.1,HIC
+Slovak Republic,2014,0.1,HIC
+Slovak Republic,2013,0.1,HIC
+Slovak Republic,2012,0.1,HIC
+Slovak Republic,2011,0.1,HIC
+Slovak Republic,2010,0.1,HIC
+Slovak Republic,2009,0.1,HIC
+Slovak Republic,2008,0.1,HIC
+Slovak Republic,2007,0.1,HIC
+Slovak Republic,2006,0.1,HIC
+Slovak Republic,2005,0.1,HIC
+Slovak Republic,2004,0.1,HIC
+Slovak Republic,2003,0.1,HIC
+Slovak Republic,2002,0.1,HIC
+Slovak Republic,2001,0.1,HIC
+Slovak Republic,2000,0.1,HIC
+Slovak Republic,1999,0.1,HIC
+Slovak Republic,1998,0.1,HIC
+Slovak Republic,1997,0.1,HIC
+Slovak Republic,1996,0.1,HIC
+Slovak Republic,1995,0.1,HIC
+Slovak Republic,1994,0.1,HIC
+Slovak Republic,1993,0.1,HIC
+Slovak Republic,1992,0.1,HIC
+Slovak Republic,1991,0.1,HIC
+Slovak Republic,1990,0.1,HIC
+Uruguay,2017,0.2,HIC
+Uruguay,2016,0.2,HIC
+Uruguay,2015,0.2,HIC
+Uruguay,2014,0.2,HIC
+Uruguay,2013,0.1,HIC
+Uruguay,2012,0.1,HIC
+Uruguay,2011,0.1,HIC
+Uruguay,2010,0.1,HIC
+Uruguay,2009,0.1,HIC
+Uruguay,2008,0.1,HIC
+Uruguay,2007,0.1,HIC
+Uruguay,2006,0.1,HIC
+Uruguay,2005,0.1,HIC
+Uruguay,2004,0.1,HIC
+Uruguay,2003,0.1,HIC
+Uruguay,2002,0.1,HIC
+Uruguay,2001,0.1,HIC
+Uruguay,2000,0.1,HIC
+Uruguay,1999,0.1,HIC
+Uruguay,1998,0.1,HIC
+Uruguay,1997,0.1,HIC
+Uruguay,1996,0.1,HIC
+Uruguay,1995,0.1,HIC
+Uruguay,1994,0.1,HIC
+Uruguay,1993,0.1,HIC
+Uruguay,1992,0.1,HIC
+Uruguay,1991,0.1,HIC
+Uruguay,1990,0.1,HIC
+Angola,2017,0.3,MIC
+Angola,2016,0.3,MIC
+Angola,2015,0.3,MIC
+Angola,2014,0.3,MIC
+Angola,2013,0.3,MIC
+Angola,2012,0.3,MIC
+Angola,2011,0.3,MIC
+Angola,2010,0.3,MIC
+Angola,2009,0.3,MIC
+Angola,2008,0.3,MIC
+Angola,2007,0.3,MIC
+Angola,2006,0.3,MIC
+Angola,2005,0.3,MIC
+Angola,2004,0.3,MIC
+Angola,2003,0.3,MIC
+Angola,2002,0.3,MIC
+Angola,2001,0.3,MIC
+Angola,2000,0.2,MIC
+Angola,1999,0.2,MIC
+Angola,1998,0.2,MIC
+Angola,1997,0.2,MIC
+Angola,1996,0.2,MIC
+Angola,1995,0.2,MIC
+Angola,1994,0.2,MIC
+Angola,1993,0.1,MIC
+Angola,1992,0.1,MIC
+Angola,1991,0.1,MIC
+Angola,1990,0.1,MIC
+Argentina,2017,0.1,MIC
+Argentina,2016,0.1,MIC
+Argentina,2015,0.1,MIC
+Argentina,2014,0.1,MIC
+Argentina,2013,0.1,MIC
+Argentina,2012,0.1,MIC
+Argentina,2011,0.1,MIC
+Argentina,2010,0.1,MIC
+Argentina,2009,0.1,MIC
+Argentina,2008,0.1,MIC
+Argentina,2007,0.1,MIC
+Argentina,2006,0.1,MIC
+Argentina,2005,0.1,MIC
+Argentina,2004,0.1,MIC
+Argentina,2003,0.1,MIC
+Argentina,2002,0.1,MIC
+Argentina,2001,0.1,MIC
+Argentina,2000,0.1,MIC
+Argentina,1999,0.1,MIC
+Argentina,1998,0.1,MIC
+Argentina,1997,0.1,MIC
+Argentina,1996,0.1,MIC
+Argentina,1995,0.1,MIC
+Argentina,1994,0.1,MIC
+Argentina,1993,0.1,MIC
+Argentina,1992,0.1,MIC
+Argentina,1991,0.1,MIC
+Argentina,1990,0.1,MIC
+Armenia,2017,0.1,MIC
+Armenia,2016,0.1,MIC
+Armenia,2015,0.1,MIC
+Armenia,2014,0.1,MIC
+Armenia,2013,0.1,MIC
+Armenia,2012,0.1,MIC
+Armenia,2011,0.1,MIC
+Armenia,2010,0.1,MIC
+Armenia,2009,0.1,MIC
+Armenia,2008,0.1,MIC
+Armenia,2007,0.1,MIC
+Armenia,2006,0.1,MIC
+Armenia,2005,0.1,MIC
+Armenia,2004,0.1,MIC
+Armenia,2003,0.1,MIC
+Armenia,2002,0.1,MIC
+Armenia,2001,0.1,MIC
+Armenia,2000,0.1,MIC
+Armenia,1999,0.1,MIC
+Armenia,1998,0.1,MIC
+Armenia,1997,0.1,MIC
+Armenia,1996,0.1,MIC
+Armenia,1995,0.1,MIC
+Armenia,1994,0.1,MIC
+Armenia,1993,0.1,MIC
+Armenia,1992,0.1,MIC
+Armenia,1991,0.1,MIC
+Armenia,1990,0.1,MIC
+Bangladesh,2017,0.1,MIC
+Bangladesh,2016,0.1,MIC
+Bangladesh,2015,0.1,MIC
+Bangladesh,2014,0.1,MIC
+Bangladesh,2013,0.1,MIC
+Bangladesh,2012,0.1,MIC
+Bangladesh,2011,0.1,MIC
+Bangladesh,2010,0.1,MIC
+Bangladesh,2009,0.1,MIC
+Bangladesh,2008,0.1,MIC
+Bangladesh,2007,0.1,MIC
+Bangladesh,2006,0.1,MIC
+Bangladesh,2005,0.1,MIC
+Bangladesh,2004,0.1,MIC
+Bangladesh,2003,0.1,MIC
+Bangladesh,2002,0.1,MIC
+Bangladesh,2001,0.1,MIC
+Bangladesh,2000,0.1,MIC
+Bangladesh,1999,0.1,MIC
+Bangladesh,1998,0.1,MIC
+Bangladesh,1997,0.1,MIC
+Bangladesh,1996,0.1,MIC
+Bangladesh,1995,0.1,MIC
+Bangladesh,1994,0.1,MIC
+Bangladesh,1993,0.1,MIC
+Bangladesh,1992,0.1,MIC
+Bangladesh,1991,0.1,MIC
+Bangladesh,1990,0.1,MIC
+Bulgaria,2017,0.1,MIC
+Bulgaria,2016,0.1,MIC
+Bulgaria,2015,0.1,MIC
+Bulgaria,2014,0.1,MIC
+Bulgaria,2013,0.1,MIC
+Bulgaria,2012,0.1,MIC
+Bulgaria,2011,0.1,MIC
+Bulgaria,2010,0.1,MIC
+Bulgaria,2009,0.1,MIC
+Bulgaria,2008,0.1,MIC
+Bulgaria,2007,0.1,MIC
+Bulgaria,2006,0.1,MIC
+Bulgaria,2005,0.1,MIC
+Bulgaria,2004,0.1,MIC
+Bulgaria,2003,0.1,MIC
+Bulgaria,2002,0.1,MIC
+Bulgaria,2001,0.1,MIC
+Bulgaria,2000,0.1,MIC
+Bulgaria,1999,0.1,MIC
+Bulgaria,1998,0.1,MIC
+Bulgaria,1997,0.1,MIC
+Bulgaria,1996,0.1,MIC
+Bulgaria,1995,0.1,MIC
+Bulgaria,1994,0.1,MIC
+Bulgaria,1993,0.1,MIC
+Bulgaria,1992,0.1,MIC
+Bulgaria,1991,0.1,MIC
+Bulgaria,1990,0.1,MIC
+Bosnia and Herzegovina,2017,0.1,MIC
+Bosnia and Herzegovina,2016,0.1,MIC
+Bosnia and Herzegovina,2015,0.1,MIC
+Bosnia and Herzegovina,2014,0.1,MIC
+Bosnia and Herzegovina,2013,0.1,MIC
+Bosnia and Herzegovina,2012,0.1,MIC
+Bosnia and Herzegovina,2011,0.1,MIC
+Bosnia and Herzegovina,2010,0.1,MIC
+Bosnia and Herzegovina,2009,0.1,MIC
+Bosnia and Herzegovina,2008,0.1,MIC
+Bosnia and Herzegovina,2007,0.1,MIC
+Bosnia and Herzegovina,2006,0.1,MIC
+Bosnia and Herzegovina,2005,0.1,MIC
+Bosnia and Herzegovina,2004,0.1,MIC
+Bosnia and Herzegovina,2003,0.1,MIC
+Bosnia and Herzegovina,2002,0.1,MIC
+Bosnia and Herzegovina,2001,0.1,MIC
+Bosnia and Herzegovina,2000,0.1,MIC
+Bosnia and Herzegovina,1999,0.1,MIC
+Bosnia and Herzegovina,1998,0.1,MIC
+Bosnia and Herzegovina,1997,0.1,MIC
+Bosnia and Herzegovina,1996,0.1,MIC
+Bosnia and Herzegovina,1995,0.1,MIC
+Bosnia and Herzegovina,1994,0.1,MIC
+Bosnia and Herzegovina,1993,0.1,MIC
+Bosnia and Herzegovina,1992,0.1,MIC
+Bosnia and Herzegovina,1991,0.1,MIC
+Bosnia and Herzegovina,1990,0.1,MIC
+Belarus,2017,0.1,MIC
+Belarus,2016,0.1,MIC
+Belarus,2015,0.1,MIC
+Belarus,2014,0.1,MIC
+Belarus,2013,0.1,MIC
+Belarus,2012,0.1,MIC
+Belarus,2011,0.1,MIC
+Belarus,2010,0.1,MIC
+Belarus,2009,0.1,MIC
+Belarus,2008,0.1,MIC
+Belarus,2007,0.1,MIC
+Belarus,2006,0.1,MIC
+Belarus,2005,0.1,MIC
+Belarus,2004,0.1,MIC
+Belarus,2003,0.1,MIC
+Belarus,2002,0.1,MIC
+Belarus,2001,0.1,MIC
+Belarus,2000,0.1,MIC
+Belarus,1999,0.1,MIC
+Belarus,1998,0.1,MIC
+Belarus,1997,0.1,MIC
+Belarus,1996,0.1,MIC
+Belarus,1995,0.1,MIC
+Belarus,1994,0.1,MIC
+Belarus,1993,0.1,MIC
+Belarus,1992,0.1,MIC
+Belarus,1991,0.1,MIC
+Belarus,1990,0.1,MIC
+Belize,2017,0.8,MIC
+Belize,2016,0.9,MIC
+Belize,2015,0.9,MIC
+Belize,2014,0.9,MIC
+Belize,2013,0.9,MIC
+Belize,2012,0.9,MIC
+Belize,2011,0.9,MIC
+Belize,2010,0.9,MIC
+Belize,2009,0.9,MIC
+Belize,2008,0.9,MIC
+Belize,2007,1.0,MIC
+Belize,2006,1.0,MIC
+Belize,2005,1.0,MIC
+Belize,2004,1.0,MIC
+Belize,2003,1.0,MIC
+Belize,2002,1.0,MIC
+Belize,2001,1.0,MIC
+Belize,2000,1.0,MIC
+Belize,1999,0.9,MIC
+Belize,1998,0.9,MIC
+Belize,1997,0.8,MIC
+Belize,1996,0.7,MIC
+Belize,1995,0.5,MIC
+Belize,1994,0.4,MIC
+Belize,1993,0.3,MIC
+Belize,1992,0.2,MIC
+Belize,1991,0.2,MIC
+Belize,1990,0.1,MIC
+Bolivia,2017,0.1,MIC
+Bolivia,2016,0.1,MIC
+Bolivia,2015,0.1,MIC
+Bolivia,2014,0.1,MIC
+Bolivia,2013,0.1,MIC
+Bolivia,2012,0.1,MIC
+Bolivia,2011,0.1,MIC
+Bolivia,2010,0.1,MIC
+Bolivia,2009,0.1,MIC
+Bolivia,2008,0.1,MIC
+Bolivia,2007,0.1,MIC
+Bolivia,2006,0.1,MIC
+Bolivia,2005,0.1,MIC
+Bolivia,2004,0.2,MIC
+Bolivia,2003,0.2,MIC
+Bolivia,2002,0.2,MIC
+Bolivia,2001,0.2,MIC
+Bolivia,2000,0.2,MIC
+Bolivia,1999,0.2,MIC
+Bolivia,1998,0.2,MIC
+Bolivia,1997,0.2,MIC
+Bolivia,1996,0.1,MIC
+Bolivia,1995,0.1,MIC
+Bolivia,1994,0.1,MIC
+Bolivia,1993,0.1,MIC
+Bolivia,1992,0.1,MIC
+Bolivia,1991,0.1,MIC
+Bolivia,1990,0.1,MIC
+Bhutan,2017,0.1,MIC
+Bhutan,2016,0.1,MIC
+Bhutan,2015,0.1,MIC
+Bhutan,2014,0.1,MIC
+Bhutan,2013,0.1,MIC
+Bhutan,2012,0.1,MIC
+Bhutan,2011,0.1,MIC
+Bhutan,2010,0.1,MIC
+Bhutan,2009,0.1,MIC
+Bhutan,2008,0.1,MIC
+Bhutan,2007,0.1,MIC
+Bhutan,2006,0.1,MIC
+Bhutan,2005,0.1,MIC
+Bhutan,2004,0.1,MIC
+Bhutan,2003,0.2,MIC
+Bhutan,2002,0.1,MIC
+Bhutan,2001,0.1,MIC
+Bhutan,2000,0.1,MIC
+Bhutan,1999,0.1,MIC
+Bhutan,1998,0.1,MIC
+Bhutan,1997,0.1,MIC
+Bhutan,1996,0.1,MIC
+Bhutan,1995,0.1,MIC
+Bhutan,1994,0.1,MIC
+Bhutan,1993,0.1,MIC
+Bhutan,1992,0.1,MIC
+Bhutan,1991,0.1,MIC
+Bhutan,1990,0.1,MIC
+Botswana,2017,5.0,MIC
+Botswana,2016,5.0,MIC
+Botswana,2015,4.9,MIC
+Botswana,2014,4.8,MIC
+Botswana,2013,4.7,MIC
+Botswana,2012,4.7,MIC
+Botswana,2011,4.6,MIC
+Botswana,2010,4.5,MIC
+Botswana,2009,4.5,MIC
+Botswana,2008,4.5,MIC
+Botswana,2007,4.7,MIC
+Botswana,2006,4.9,MIC
+Botswana,2005,5.3,MIC
+Botswana,2004,5.7,MIC
+Botswana,2003,6.2,MIC
+Botswana,2002,6.8,MIC
+Botswana,2001,7.4,MIC
+Botswana,2000,7.9,MIC
+Botswana,1999,8.4,MIC
+Botswana,1998,8.7,MIC
+Botswana,1997,8.8,MIC
+Botswana,1996,8.6,MIC
+Botswana,1995,8.1,MIC
+Botswana,1994,7.3,MIC
+Botswana,1993,6.2,MIC
+Botswana,1992,5.1,MIC
+Botswana,1991,4.0,MIC
+Botswana,1990,3.0,MIC
+Cote d'Ivoire,2017,0.6,MIC
+Cote d'Ivoire,2016,0.6,MIC
+Cote d'Ivoire,2015,0.6,MIC
+Cote d'Ivoire,2014,0.6,MIC
+Cote d'Ivoire,2013,0.6,MIC
+Cote d'Ivoire,2012,0.6,MIC
+Cote d'Ivoire,2011,0.6,MIC
+Cote d'Ivoire,2010,0.6,MIC
+Cote d'Ivoire,2009,0.6,MIC
+Cote d'Ivoire,2008,0.6,MIC
+Cote d'Ivoire,2007,0.6,MIC
+Cote d'Ivoire,2006,0.6,MIC
+Cote d'Ivoire,2005,0.6,MIC
+Cote d'Ivoire,2004,0.6,MIC
+Cote d'Ivoire,2003,0.6,MIC
+Cote d'Ivoire,2002,0.6,MIC
+Cote d'Ivoire,2001,0.7,MIC
+Cote d'Ivoire,2000,0.7,MIC
+Cote d'Ivoire,1999,0.8,MIC
+Cote d'Ivoire,1998,0.9,MIC
+Cote d'Ivoire,1997,1.0,MIC
+Cote d'Ivoire,1996,1.1,MIC
+Cote d'Ivoire,1995,1.2,MIC
+Cote d'Ivoire,1994,1.2,MIC
+Cote d'Ivoire,1993,1.3,MIC
+Cote d'Ivoire,1992,1.3,MIC
+Cote d'Ivoire,1991,1.2,MIC
+Cote d'Ivoire,1990,1.1,MIC
+Cameroon,2017,0.7,MIC
+Cameroon,2016,0.7,MIC
+Cameroon,2015,0.7,MIC
+Cameroon,2014,0.7,MIC
+Cameroon,2013,0.7,MIC
+Cameroon,2012,0.8,MIC
+Cameroon,2011,0.8,MIC
+Cameroon,2010,0.8,MIC
+Cameroon,2009,0.8,MIC
+Cameroon,2008,0.8,MIC
+Cameroon,2007,0.8,MIC
+Cameroon,2006,0.9,MIC
+Cameroon,2005,0.9,MIC
+Cameroon,2004,1.0,MIC
+Cameroon,2003,1.1,MIC
+Cameroon,2002,1.2,MIC
+Cameroon,2001,1.2,MIC
+Cameroon,2000,1.2,MIC
+Cameroon,1999,1.2,MIC
+Cameroon,1998,1.2,MIC
+Cameroon,1997,1.1,MIC
+Cameroon,1996,1.0,MIC
+Cameroon,1995,0.9,MIC
+Cameroon,1994,0.8,MIC
+Cameroon,1993,0.7,MIC
+Cameroon,1992,0.5,MIC
+Cameroon,1991,0.4,MIC
+Cameroon,1990,0.4,MIC
+"Congo, Rep.",2017,0.5,MIC
+"Congo, Rep.",2016,0.5,MIC
+"Congo, Rep.",2015,0.5,MIC
+"Congo, Rep.",2014,0.5,MIC
+"Congo, Rep.",2013,0.5,MIC
+"Congo, Rep.",2012,0.5,MIC
+"Congo, Rep.",2011,0.5,MIC
+"Congo, Rep.",2010,0.5,MIC
+"Congo, Rep.",2009,0.5,MIC
+"Congo, Rep.",2008,0.5,MIC
+"Congo, Rep.",2007,0.5,MIC
+"Congo, Rep.",2006,0.5,MIC
+"Congo, Rep.",2005,0.4,MIC
+"Congo, Rep.",2004,0.4,MIC
+"Congo, Rep.",2003,0.4,MIC
+"Congo, Rep.",2002,0.5,MIC
+"Congo, Rep.",2001,0.5,MIC
+"Congo, Rep.",2000,0.5,MIC
+"Congo, Rep.",1999,0.5,MIC
+"Congo, Rep.",1998,0.6,MIC
+"Congo, Rep.",1997,0.7,MIC
+"Congo, Rep.",1996,0.8,MIC
+"Congo, Rep.",1995,0.9,MIC
+"Congo, Rep.",1994,1.0,MIC
+"Congo, Rep.",1993,1.1,MIC
+"Congo, Rep.",1992,1.2,MIC
+"Congo, Rep.",1991,1.2,MIC
+"Congo, Rep.",1990,1.2,MIC
+Colombia,2017,0.1,MIC
+Colombia,2016,0.1,MIC
+Colombia,2015,0.1,MIC
+Colombia,2014,0.1,MIC
+Colombia,2013,0.1,MIC
+Colombia,2012,0.1,MIC
+Colombia,2011,0.1,MIC
+Colombia,2010,0.1,MIC
+Colombia,2009,0.1,MIC
+Colombia,2008,0.1,MIC
+Colombia,2007,0.1,MIC
+Colombia,2006,0.1,MIC
+Colombia,2005,0.1,MIC
+Colombia,2004,0.1,MIC
+Colombia,2003,0.1,MIC
+Colombia,2002,0.1,MIC
+Colombia,2001,0.2,MIC
+Colombia,2000,0.2,MIC
+Colombia,1999,0.2,MIC
+Colombia,1998,0.2,MIC
+Colombia,1997,0.2,MIC
+Colombia,1996,0.2,MIC
+Colombia,1995,0.2,MIC
+Colombia,1994,0.2,MIC
+Colombia,1993,0.1,MIC
+Colombia,1992,0.1,MIC
+Colombia,1991,0.1,MIC
+Colombia,1990,0.1,MIC
+Comoros,2017,0.1,MIC
+Comoros,2016,0.1,MIC
+Comoros,2015,0.1,MIC
+Comoros,2014,0.1,MIC
+Comoros,2013,0.1,MIC
+Comoros,2012,0.1,MIC
+Comoros,2011,0.1,MIC
+Comoros,2010,0.1,MIC
+Comoros,2009,0.1,MIC
+Comoros,2008,0.1,MIC
+Comoros,2007,0.1,MIC
+Comoros,2006,0.1,MIC
+Comoros,2005,0.1,MIC
+Comoros,2004,0.1,MIC
+Comoros,2003,0.1,MIC
+Comoros,2002,0.1,MIC
+Comoros,2001,0.1,MIC
+Comoros,2000,0.1,MIC
+Comoros,1999,0.1,MIC
+Comoros,1998,0.1,MIC
+Comoros,1997,0.1,MIC
+Comoros,1996,0.1,MIC
+Comoros,1995,0.1,MIC
+Comoros,1994,0.1,MIC
+Comoros,1993,0.1,MIC
+Comoros,1992,0.1,MIC
+Comoros,1991,0.1,MIC
+Comoros,1990,0.1,MIC
+Cabo Verde,2017,0.1,MIC
+Cabo Verde,2016,0.1,MIC
+Cabo Verde,2015,0.1,MIC
+Cabo Verde,2014,0.1,MIC
+Cabo Verde,2013,0.1,MIC
+Cabo Verde,2012,0.1,MIC
+Cabo Verde,2011,0.2,MIC
+Cabo Verde,2010,0.2,MIC
+Cabo Verde,2009,0.2,MIC
+Cabo Verde,2008,0.2,MIC
+Cabo Verde,2007,0.2,MIC
+Cabo Verde,2006,0.2,MIC
+Cabo Verde,2005,0.2,MIC
+Cabo Verde,2004,0.2,MIC
+Cabo Verde,2003,0.2,MIC
+Cabo Verde,2002,0.2,MIC
+Cabo Verde,2001,0.2,MIC
+Cabo Verde,2000,0.2,MIC
+Cabo Verde,1999,0.2,MIC
+Cabo Verde,1998,0.2,MIC
+Cabo Verde,1997,0.2,MIC
+Cabo Verde,1996,0.2,MIC
+Cabo Verde,1995,0.2,MIC
+Cabo Verde,1994,0.2,MIC
+Cabo Verde,1993,0.2,MIC
+Cabo Verde,1992,0.2,MIC
+Cabo Verde,1991,0.2,MIC
+Cabo Verde,1990,0.2,MIC
+Costa Rica,2017,0.1,MIC
+Costa Rica,2016,0.1,MIC
+Costa Rica,2015,0.1,MIC
+Costa Rica,2014,0.1,MIC
+Costa Rica,2013,0.1,MIC
+Costa Rica,2012,0.1,MIC
+Costa Rica,2011,0.1,MIC
+Costa Rica,2010,0.1,MIC
+Costa Rica,2009,0.1,MIC
+Costa Rica,2008,0.1,MIC
+Costa Rica,2007,0.1,MIC
+Costa Rica,2006,0.1,MIC
+Costa Rica,2005,0.1,MIC
+Costa Rica,2004,0.1,MIC
+Costa Rica,2003,0.1,MIC
+Costa Rica,2002,0.1,MIC
+Costa Rica,2001,0.1,MIC
+Costa Rica,2000,0.1,MIC
+Costa Rica,1999,0.1,MIC
+Costa Rica,1998,0.1,MIC
+Costa Rica,1997,0.1,MIC
+Costa Rica,1996,0.1,MIC
+Costa Rica,1995,0.1,MIC
+Costa Rica,1994,0.1,MIC
+Costa Rica,1993,0.1,MIC
+Costa Rica,1992,0.1,MIC
+Costa Rica,1991,0.1,MIC
+Costa Rica,1990,0.1,MIC
+Cuba,2017,0.1,MIC
+Cuba,2016,0.1,MIC
+Cuba,2015,0.1,MIC
+Cuba,2014,0.1,MIC
+Cuba,2013,0.1,MIC
+Cuba,2012,0.1,MIC
+Cuba,2011,0.1,MIC
+Cuba,2010,0.1,MIC
+Cuba,2009,0.1,MIC
+Cuba,2008,0.1,MIC
+Cuba,2007,0.1,MIC
+Cuba,2006,0.1,MIC
+Cuba,2005,0.1,MIC
+Cuba,2004,0.1,MIC
+Cuba,2003,0.1,MIC
+Cuba,2002,0.1,MIC
+Cuba,2001,0.1,MIC
+Cuba,2000,0.1,MIC
+Cuba,1999,0.1,MIC
+Cuba,1998,0.1,MIC
+Cuba,1997,0.1,MIC
+Cuba,1996,0.1,MIC
+Cuba,1995,0.1,MIC
+Cuba,1994,0.1,MIC
+Cuba,1993,0.1,MIC
+Cuba,1992,0.1,MIC
+Cuba,1991,0.1,MIC
+Cuba,1990,0.1,MIC
+Djibouti,2017,0.4,MIC
+Djibouti,2016,0.4,MIC
+Djibouti,2015,0.4,MIC
+Djibouti,2014,0.3,MIC
+Djibouti,2013,0.3,MIC
+Djibouti,2012,0.3,MIC
+Djibouti,2011,0.3,MIC
+Djibouti,2010,0.2,MIC
+Djibouti,2009,0.2,MIC
+Djibouti,2008,0.3,MIC
+Djibouti,2007,0.3,MIC
+Djibouti,2006,0.3,MIC
+Djibouti,2005,0.4,MIC
+Djibouti,2004,0.5,MIC
+Djibouti,2003,0.6,MIC
+Djibouti,2002,0.6,MIC
+Djibouti,2001,0.7,MIC
+Djibouti,2000,0.7,MIC
+Djibouti,1999,0.7,MIC
+Djibouti,1998,0.7,MIC
+Djibouti,1997,0.7,MIC
+Djibouti,1996,0.6,MIC
+Djibouti,1995,0.5,MIC
+Djibouti,1994,0.4,MIC
+Djibouti,1993,0.3,MIC
+Djibouti,1992,0.2,MIC
+Djibouti,1991,0.1,MIC
+Djibouti,1990,0.1,MIC
+Dominican Republic,2017,0.3,MIC
+Dominican Republic,2016,0.3,MIC
+Dominican Republic,2015,0.3,MIC
+Dominican Republic,2014,0.3,MIC
+Dominican Republic,2013,0.3,MIC
+Dominican Republic,2012,0.3,MIC
+Dominican Republic,2011,0.3,MIC
+Dominican Republic,2010,0.3,MIC
+Dominican Republic,2009,0.3,MIC
+Dominican Republic,2008,0.3,MIC
+Dominican Republic,2007,0.4,MIC
+Dominican Republic,2006,0.4,MIC
+Dominican Republic,2005,0.5,MIC
+Dominican Republic,2004,0.5,MIC
+Dominican Republic,2003,0.6,MIC
+Dominican Republic,2002,0.7,MIC
+Dominican Republic,2001,0.7,MIC
+Dominican Republic,2000,0.8,MIC
+Dominican Republic,1999,0.8,MIC
+Dominican Republic,1998,0.9,MIC
+Dominican Republic,1997,0.9,MIC
+Dominican Republic,1996,0.9,MIC
+Dominican Republic,1995,0.8,MIC
+Dominican Republic,1994,0.8,MIC
+Dominican Republic,1993,0.7,MIC
+Dominican Republic,1992,0.6,MIC
+Dominican Republic,1991,0.6,MIC
+Dominican Republic,1990,0.5,MIC
+Algeria,2017,0.1,MIC
+Algeria,2016,0.1,MIC
+Algeria,2015,0.1,MIC
+Algeria,2014,0.1,MIC
+Algeria,2013,0.1,MIC
+Algeria,2012,0.1,MIC
+Algeria,2011,0.1,MIC
+Algeria,2010,0.1,MIC
+Algeria,2009,0.1,MIC
+Algeria,2008,0.1,MIC
+Algeria,2007,0.1,MIC
+Algeria,2006,0.1,MIC
+Algeria,2005,0.1,MIC
+Algeria,2004,0.1,MIC
+Algeria,2003,0.1,MIC
+Algeria,2002,0.1,MIC
+Algeria,2001,0.1,MIC
+Algeria,2000,0.1,MIC
+Algeria,1999,0.1,MIC
+Algeria,1998,0.1,MIC
+Algeria,1997,0.1,MIC
+Algeria,1996,0.1,MIC
+Algeria,1995,0.1,MIC
+Algeria,1994,0.1,MIC
+Algeria,1993,0.1,MIC
+Algeria,1992,0.1,MIC
+Algeria,1991,0.1,MIC
+Algeria,1990,0.1,MIC
+Ecuador,2017,0.1,MIC
+Ecuador,2016,0.1,MIC
+Ecuador,2015,0.1,MIC
+Ecuador,2014,0.1,MIC
+Ecuador,2013,0.1,MIC
+Ecuador,2012,0.1,MIC
+Ecuador,2011,0.1,MIC
+Ecuador,2010,0.1,MIC
+Ecuador,2009,0.1,MIC
+Ecuador,2008,0.1,MIC
+Ecuador,2007,0.1,MIC
+Ecuador,2006,0.1,MIC
+Ecuador,2005,0.1,MIC
+Ecuador,2004,0.1,MIC
+Ecuador,2003,0.1,MIC
+Ecuador,2002,0.1,MIC
+Ecuador,2001,0.1,MIC
+Ecuador,2000,0.1,MIC
+Ecuador,1999,0.1,MIC
+Ecuador,1998,0.1,MIC
+Ecuador,1997,0.1,MIC
+Ecuador,1996,0.1,MIC
+Ecuador,1995,0.1,MIC
+Ecuador,1994,0.1,MIC
+Ecuador,1993,0.1,MIC
+Ecuador,1992,0.1,MIC
+Ecuador,1991,0.1,MIC
+Ecuador,1990,0.1,MIC
+"Egypt, Arab Rep.",2017,0.1,MIC
+"Egypt, Arab Rep.",2016,0.1,MIC
+"Egypt, Arab Rep.",2015,0.1,MIC
+"Egypt, Arab Rep.",2014,0.1,MIC
+"Egypt, Arab Rep.",2013,0.1,MIC
+"Egypt, Arab Rep.",2012,0.1,MIC
+"Egypt, Arab Rep.",2011,0.1,MIC
+"Egypt, Arab Rep.",2010,0.1,MIC
+"Egypt, Arab Rep.",2009,0.1,MIC
+"Egypt, Arab Rep.",2008,0.1,MIC
+"Egypt, Arab Rep.",2007,0.1,MIC
+"Egypt, Arab Rep.",2006,0.1,MIC
+"Egypt, Arab Rep.",2005,0.1,MIC
+"Egypt, Arab Rep.",2004,0.1,MIC
+"Egypt, Arab Rep.",2003,0.1,MIC
+"Egypt, Arab Rep.",2002,0.1,MIC
+"Egypt, Arab Rep.",2001,0.1,MIC
+"Egypt, Arab Rep.",2000,0.1,MIC
+"Egypt, Arab Rep.",1999,0.1,MIC
+"Egypt, Arab Rep.",1998,0.1,MIC
+"Egypt, Arab Rep.",1997,0.1,MIC
+"Egypt, Arab Rep.",1996,0.1,MIC
+"Egypt, Arab Rep.",1995,0.1,MIC
+"Egypt, Arab Rep.",1994,0.1,MIC
+"Egypt, Arab Rep.",1993,0.1,MIC
+"Egypt, Arab Rep.",1992,0.1,MIC
+"Egypt, Arab Rep.",1991,0.1,MIC
+"Egypt, Arab Rep.",1990,0.1,MIC
+Gabon,2017,0.5,MIC
+Gabon,2016,0.5,MIC
+Gabon,2015,0.5,MIC
+Gabon,2014,0.5,MIC
+Gabon,2013,0.5,MIC
+Gabon,2012,0.5,MIC
+Gabon,2011,0.5,MIC
+Gabon,2010,0.5,MIC
+Gabon,2009,0.4,MIC
+Gabon,2008,0.4,MIC
+Gabon,2007,0.4,MIC
+Gabon,2006,0.4,MIC
+Gabon,2005,0.5,MIC
+Gabon,2004,0.5,MIC
+Gabon,2003,0.5,MIC
+Gabon,2002,0.6,MIC
+Gabon,2001,0.6,MIC
+Gabon,2000,0.6,MIC
+Gabon,1999,0.6,MIC
+Gabon,1998,0.7,MIC
+Gabon,1997,0.7,MIC
+Gabon,1996,0.6,MIC
+Gabon,1995,0.6,MIC
+Gabon,1994,0.5,MIC
+Gabon,1993,0.5,MIC
+Gabon,1992,0.4,MIC
+Gabon,1991,0.3,MIC
+Gabon,1990,0.3,MIC
+Georgia,2017,0.1,MIC
+Georgia,2016,0.1,MIC
+Georgia,2015,0.1,MIC
+Georgia,2014,0.1,MIC
+Georgia,2013,0.1,MIC
+Georgia,2012,0.1,MIC
+Georgia,2011,0.1,MIC
+Georgia,2010,0.1,MIC
+Georgia,2009,0.1,MIC
+Georgia,2008,0.1,MIC
+Georgia,2007,0.1,MIC
+Georgia,2006,0.1,MIC
+Georgia,2005,0.1,MIC
+Georgia,2004,0.1,MIC
+Georgia,2003,0.1,MIC
+Georgia,2002,0.1,MIC
+Georgia,2001,0.1,MIC
+Georgia,2000,0.1,MIC
+Georgia,1999,0.1,MIC
+Georgia,1998,0.1,MIC
+Georgia,1997,0.1,MIC
+Georgia,1996,0.1,MIC
+Georgia,1995,0.1,MIC
+Georgia,1994,0.1,MIC
+Georgia,1993,0.1,MIC
+Georgia,1992,0.1,MIC
+Georgia,1991,0.1,MIC
+Georgia,1990,0.1,MIC
+Ghana,2017,0.4,MIC
+Ghana,2016,0.4,MIC
+Ghana,2015,0.4,MIC
+Ghana,2014,0.4,MIC
+Ghana,2013,0.4,MIC
+Ghana,2012,0.3,MIC
+Ghana,2011,0.3,MIC
+Ghana,2010,0.3,MIC
+Ghana,2009,0.3,MIC
+Ghana,2008,0.3,MIC
+Ghana,2007,0.3,MIC
+Ghana,2006,0.3,MIC
+Ghana,2005,0.3,MIC
+Ghana,2004,0.3,MIC
+Ghana,2003,0.3,MIC
+Ghana,2002,0.3,MIC
+Ghana,2001,0.3,MIC
+Ghana,2000,0.3,MIC
+Ghana,1999,0.4,MIC
+Ghana,1998,0.4,MIC
+Ghana,1997,0.4,MIC
+Ghana,1996,0.5,MIC
+Ghana,1995,0.5,MIC
+Ghana,1994,0.5,MIC
+Ghana,1993,0.5,MIC
+Ghana,1992,0.5,MIC
+Ghana,1991,0.4,MIC
+Ghana,1990,0.4,MIC
+Equatorial Guinea,2009,1.4,MIC
+Equatorial Guinea,2008,1.4,MIC
+Equatorial Guinea,2007,1.4,MIC
+Equatorial Guinea,2006,1.3,MIC
+Equatorial Guinea,2005,1.3,MIC
+Equatorial Guinea,2004,1.3,MIC
+Equatorial Guinea,2003,1.2,MIC
+Equatorial Guinea,2002,1.2,MIC
+Equatorial Guinea,2001,1.2,MIC
+Equatorial Guinea,2000,1.1,MIC
+Equatorial Guinea,1999,1.1,MIC
+Equatorial Guinea,1998,1.0,MIC
+Equatorial Guinea,1997,1.0,MIC
+Equatorial Guinea,1996,0.9,MIC
+Equatorial Guinea,1995,0.8,MIC
+Equatorial Guinea,1994,0.7,MIC
+Equatorial Guinea,1993,0.6,MIC
+Equatorial Guinea,1992,0.6,MIC
+Equatorial Guinea,1991,0.5,MIC
+Equatorial Guinea,1990,0.4,MIC
+Equatorial Guinea,2017,1.8,MIC
+Equatorial Guinea,2016,1.7,MIC
+Equatorial Guinea,2015,1.7,MIC
+Equatorial Guinea,2014,1.7,MIC
+Equatorial Guinea,2013,1.6,MIC
+Equatorial Guinea,2012,1.6,MIC
+Equatorial Guinea,2011,1.6,MIC
+Equatorial Guinea,2010,1.5,MIC
+Guatemala,2017,0.1,MIC
+Guatemala,2016,0.1,MIC
+Guatemala,2015,0.1,MIC
+Guatemala,2014,0.1,MIC
+Guatemala,2013,0.1,MIC
+Guatemala,2012,0.1,MIC
+Guatemala,2011,0.1,MIC
+Guatemala,2010,0.1,MIC
+Guatemala,2009,0.1,MIC
+Guatemala,2008,0.1,MIC
+Guatemala,2007,0.1,MIC
+Guatemala,2006,0.1,MIC
+Guatemala,2005,0.2,MIC
+Guatemala,2004,0.2,MIC
+Guatemala,2003,0.2,MIC
+Guatemala,2002,0.2,MIC
+Guatemala,2001,0.2,MIC
+Guatemala,2000,0.2,MIC
+Guatemala,1999,0.2,MIC
+Guatemala,1998,0.2,MIC
+Guatemala,1997,0.2,MIC
+Guatemala,1996,0.2,MIC
+Guatemala,1995,0.2,MIC
+Guatemala,1994,0.2,MIC
+Guatemala,1993,0.1,MIC
+Guatemala,1992,0.1,MIC
+Guatemala,1991,0.1,MIC
+Guatemala,1990,0.1,MIC
+Guyana,2017,0.3,MIC
+Guyana,2016,0.3,MIC
+Guyana,2015,0.3,MIC
+Guyana,2014,0.3,MIC
+Guyana,2013,0.3,MIC
+Guyana,2012,0.3,MIC
+Guyana,2011,0.3,MIC
+Guyana,2010,0.3,MIC
+Guyana,2009,0.3,MIC
+Guyana,2008,0.3,MIC
+Guyana,2007,0.3,MIC
+Guyana,2006,0.3,MIC
+Guyana,2005,0.3,MIC
+Guyana,2004,0.3,MIC
+Guyana,2003,0.3,MIC
+Guyana,2002,0.2,MIC
+Guyana,2001,0.2,MIC
+Guyana,2000,0.2,MIC
+Guyana,1999,0.2,MIC
+Guyana,1998,0.1,MIC
+Guyana,1997,0.1,MIC
+Guyana,1996,0.1,MIC
+Guyana,1995,0.1,MIC
+Guyana,1994,0.1,MIC
+Guyana,1993,0.1,MIC
+Guyana,1992,0.1,MIC
+Guyana,1991,0.1,MIC
+Guyana,1990,0.1,MIC
+Honduras,2017,0.2,MIC
+Honduras,2016,0.2,MIC
+Honduras,2015,0.2,MIC
+Honduras,2014,0.2,MIC
+Honduras,2013,0.2,MIC
+Honduras,2012,0.2,MIC
+Honduras,2011,0.2,MIC
+Honduras,2010,0.2,MIC
+Honduras,2009,0.2,MIC
+Honduras,2008,0.2,MIC
+Honduras,2007,0.2,MIC
+Honduras,2006,0.2,MIC
+Honduras,2005,0.2,MIC
+Honduras,2004,0.3,MIC
+Honduras,2003,0.3,MIC
+Honduras,2002,0.4,MIC
+Honduras,2001,0.5,MIC
+Honduras,2000,0.6,MIC
+Honduras,1999,0.7,MIC
+Honduras,1998,0.8,MIC
+Honduras,1997,1.0,MIC
+Honduras,1996,1.1,MIC
+Honduras,1995,1.2,MIC
+Honduras,1994,1.4,MIC
+Honduras,1993,1.5,MIC
+Honduras,1992,1.5,MIC
+Honduras,1991,1.5,MIC
+Honduras,1990,1.4,MIC
+Indonesia,2017,0.3,MIC
+Indonesia,2016,0.3,MIC
+Indonesia,2015,0.3,MIC
+Indonesia,2014,0.3,MIC
+Indonesia,2013,0.3,MIC
+Indonesia,2012,0.3,MIC
+Indonesia,2011,0.4,MIC
+Indonesia,2010,0.4,MIC
+Indonesia,2009,0.4,MIC
+Indonesia,2008,0.4,MIC
+Indonesia,2007,0.4,MIC
+Indonesia,2006,0.4,MIC
+Indonesia,2005,0.3,MIC
+Indonesia,2004,0.3,MIC
+Indonesia,2003,0.3,MIC
+Indonesia,2002,0.2,MIC
+Indonesia,2001,0.2,MIC
+Indonesia,2000,0.1,MIC
+Indonesia,1999,0.1,MIC
+Indonesia,1998,0.1,MIC
+Indonesia,1997,0.1,MIC
+Indonesia,1996,0.1,MIC
+Indonesia,1995,0.1,MIC
+Indonesia,1994,0.1,MIC
+Indonesia,1993,0.1,MIC
+Indonesia,1992,0.1,MIC
+Indonesia,1991,0.1,MIC
+Indonesia,1990,0.1,MIC
+"Iran, Islamic Rep.",2017,0.1,MIC
+"Iran, Islamic Rep.",2016,0.1,MIC
+"Iran, Islamic Rep.",2015,0.1,MIC
+"Iran, Islamic Rep.",2014,0.1,MIC
+"Iran, Islamic Rep.",2013,0.1,MIC
+"Iran, Islamic Rep.",2012,0.1,MIC
+"Iran, Islamic Rep.",2011,0.1,MIC
+"Iran, Islamic Rep.",2010,0.1,MIC
+"Iran, Islamic Rep.",2009,0.1,MIC
+"Iran, Islamic Rep.",2008,0.1,MIC
+"Iran, Islamic Rep.",2007,0.1,MIC
+"Iran, Islamic Rep.",2006,0.1,MIC
+"Iran, Islamic Rep.",2005,0.1,MIC
+"Iran, Islamic Rep.",2004,0.1,MIC
+"Iran, Islamic Rep.",2003,0.1,MIC
+"Iran, Islamic Rep.",2002,0.1,MIC
+"Iran, Islamic Rep.",2001,0.1,MIC
+"Iran, Islamic Rep.",2000,0.1,MIC
+"Iran, Islamic Rep.",1999,0.1,MIC
+"Iran, Islamic Rep.",1998,0.1,MIC
+"Iran, Islamic Rep.",1997,0.1,MIC
+"Iran, Islamic Rep.",1996,0.1,MIC
+"Iran, Islamic Rep.",1995,0.1,MIC
+"Iran, Islamic Rep.",1994,0.1,MIC
+"Iran, Islamic Rep.",1993,0.1,MIC
+"Iran, Islamic Rep.",1992,0.1,MIC
+"Iran, Islamic Rep.",1991,0.1,MIC
+"Iran, Islamic Rep.",1990,0.1,MIC
+Jamaica,2017,0.5,MIC
+Jamaica,2016,0.5,MIC
+Jamaica,2015,0.5,MIC
+Jamaica,2014,0.5,MIC
+Jamaica,2013,0.5,MIC
+Jamaica,2012,0.5,MIC
+Jamaica,2011,0.5,MIC
+Jamaica,2010,0.5,MIC
+Jamaica,2009,0.5,MIC
+Jamaica,2008,0.5,MIC
+Jamaica,2007,0.5,MIC
+Jamaica,2006,0.5,MIC
+Jamaica,2005,0.5,MIC
+Jamaica,2004,0.5,MIC
+Jamaica,2003,0.6,MIC
+Jamaica,2002,0.6,MIC
+Jamaica,2001,0.7,MIC
+Jamaica,2000,0.7,MIC
+Jamaica,1999,0.9,MIC
+Jamaica,1998,1.0,MIC
+Jamaica,1997,1.1,MIC
+Jamaica,1996,1.2,MIC
+Jamaica,1995,1.2,MIC
+Jamaica,1994,1.2,MIC
+Jamaica,1993,1.1,MIC
+Jamaica,1992,1.0,MIC
+Jamaica,1991,0.8,MIC
+Jamaica,1990,0.5,MIC
+Jordan,2017,0.1,MIC
+Jordan,2016,0.1,MIC
+Jordan,2015,0.1,MIC
+Jordan,2014,0.1,MIC
+Jordan,2013,0.1,MIC
+Jordan,2012,0.1,MIC
+Jordan,2011,0.1,MIC
+Jordan,2010,0.1,MIC
+Jordan,2009,0.1,MIC
+Jordan,2008,0.1,MIC
+Jordan,2007,0.1,MIC
+Jordan,2006,0.1,MIC
+Jordan,2005,0.1,MIC
+Jordan,2004,0.1,MIC
+Jordan,2003,0.1,MIC
+Jordan,2002,0.1,MIC
+Jordan,2001,0.1,MIC
+Jordan,2000,0.1,MIC
+Jordan,1999,0.1,MIC
+Jordan,1998,0.1,MIC
+Jordan,1997,0.1,MIC
+Jordan,1996,0.1,MIC
+Jordan,1995,0.1,MIC
+Jordan,1994,0.1,MIC
+Jordan,1993,0.1,MIC
+Jordan,1992,0.1,MIC
+Jordan,1991,0.1,MIC
+Jordan,1990,0.1,MIC
+Kazakhstan,2017,0.1,MIC
+Kazakhstan,2016,0.1,MIC
+Kazakhstan,2015,0.1,MIC
+Kazakhstan,2014,0.1,MIC
+Kazakhstan,2013,0.1,MIC
+Kazakhstan,2012,0.1,MIC
+Kazakhstan,2011,0.1,MIC
+Kazakhstan,2010,0.1,MIC
+Kazakhstan,2009,0.1,MIC
+Kazakhstan,2008,0.1,MIC
+Kazakhstan,2007,0.1,MIC
+Kazakhstan,2006,0.1,MIC
+Kazakhstan,2005,0.1,MIC
+Kazakhstan,2004,0.1,MIC
+Kazakhstan,2003,0.1,MIC
+Kazakhstan,2002,0.1,MIC
+Kazakhstan,2001,0.1,MIC
+Kazakhstan,2000,0.1,MIC
+Kazakhstan,1999,0.1,MIC
+Kazakhstan,1998,0.1,MIC
+Kazakhstan,1997,0.1,MIC
+Kazakhstan,1996,0.1,MIC
+Kazakhstan,1995,0.1,MIC
+Kazakhstan,1994,0.1,MIC
+Kazakhstan,1993,0.1,MIC
+Kazakhstan,1992,0.1,MIC
+Kazakhstan,1991,0.1,MIC
+Kazakhstan,1990,0.1,MIC
+Kenya,2017,1.6,MIC
+Kenya,2016,1.6,MIC
+Kenya,2015,1.6,MIC
+Kenya,2014,1.6,MIC
+Kenya,2013,1.6,MIC
+Kenya,2012,1.6,MIC
+Kenya,2011,1.5,MIC
+Kenya,2010,1.5,MIC
+Kenya,2009,1.5,MIC
+Kenya,2008,1.4,MIC
+Kenya,2007,1.4,MIC
+Kenya,2006,1.4,MIC
+Kenya,2005,1.4,MIC
+Kenya,2004,1.4,MIC
+Kenya,2003,1.6,MIC
+Kenya,2002,1.7,MIC
+Kenya,2001,2.0,MIC
+Kenya,2000,2.3,MIC
+Kenya,1999,2.6,MIC
+Kenya,1998,3.0,MIC
+Kenya,1997,3.5,MIC
+Kenya,1996,3.9,MIC
+Kenya,1995,4.3,MIC
+Kenya,1994,4.5,MIC
+Kenya,1993,4.5,MIC
+Kenya,1992,4.3,MIC
+Kenya,1991,3.8,MIC
+Kenya,1990,3.3,MIC
+Kyrgyz Republic,2017,0.1,MIC
+Kyrgyz Republic,2016,0.1,MIC
+Kyrgyz Republic,2015,0.1,MIC
+Kyrgyz Republic,2014,0.1,MIC
+Kyrgyz Republic,2013,0.1,MIC
+Kyrgyz Republic,2012,0.1,MIC
+Kyrgyz Republic,2011,0.1,MIC
+Kyrgyz Republic,2010,0.1,MIC
+Kyrgyz Republic,2009,0.1,MIC
+Kyrgyz Republic,2008,0.1,MIC
+Kyrgyz Republic,2007,0.1,MIC
+Kyrgyz Republic,2006,0.1,MIC
+Kyrgyz Republic,2005,0.1,MIC
+Kyrgyz Republic,2004,0.1,MIC
+Kyrgyz Republic,2003,0.1,MIC
+Kyrgyz Republic,2002,0.1,MIC
+Kyrgyz Republic,2001,0.1,MIC
+Kyrgyz Republic,2000,0.1,MIC
+Kyrgyz Republic,1999,0.1,MIC
+Kyrgyz Republic,1998,0.1,MIC
+Kyrgyz Republic,1997,0.1,MIC
+Kyrgyz Republic,1996,0.1,MIC
+Kyrgyz Republic,1995,0.1,MIC
+Kyrgyz Republic,1994,0.1,MIC
+Kyrgyz Republic,1993,0.1,MIC
+Kyrgyz Republic,1992,0.1,MIC
+Kyrgyz Republic,1991,0.1,MIC
+Kyrgyz Republic,1990,0.1,MIC
+Cambodia,2017,0.1,MIC
+Cambodia,2016,0.1,MIC
+Cambodia,2015,0.1,MIC
+Cambodia,2014,0.1,MIC
+Cambodia,2013,0.1,MIC
+Cambodia,2012,0.1,MIC
+Cambodia,2011,0.1,MIC
+Cambodia,2010,0.1,MIC
+Cambodia,2009,0.1,MIC
+Cambodia,2008,0.1,MIC
+Cambodia,2007,0.1,MIC
+Cambodia,2006,0.1,MIC
+Cambodia,2005,0.1,MIC
+Cambodia,2004,0.2,MIC
+Cambodia,2003,0.2,MIC
+Cambodia,2002,0.3,MIC
+Cambodia,2001,0.3,MIC
+Cambodia,2000,0.4,MIC
+Cambodia,1999,0.5,MIC
+Cambodia,1998,0.5,MIC
+Cambodia,1997,0.5,MIC
+Cambodia,1996,0.5,MIC
+Cambodia,1995,0.3,MIC
+Cambodia,1994,0.2,MIC
+Cambodia,1993,0.1,MIC
+Cambodia,1992,0.1,MIC
+Cambodia,1991,0.1,MIC
+Cambodia,1990,0.1,MIC
+Lao PDR,2017,0.1,MIC
+Lao PDR,2016,0.1,MIC
+Lao PDR,2015,0.1,MIC
+Lao PDR,2014,0.1,MIC
+Lao PDR,2013,0.1,MIC
+Lao PDR,2012,0.1,MIC
+Lao PDR,2011,0.1,MIC
+Lao PDR,2010,0.1,MIC
+Lao PDR,2009,0.1,MIC
+Lao PDR,2008,0.2,MIC
+Lao PDR,2007,0.2,MIC
+Lao PDR,2006,0.2,MIC
+Lao PDR,2005,0.2,MIC
+Lao PDR,2004,0.2,MIC
+Lao PDR,2003,0.2,MIC
+Lao PDR,2002,0.1,MIC
+Lao PDR,2001,0.1,MIC
+Lao PDR,2000,0.1,MIC
+Lao PDR,1999,0.1,MIC
+Lao PDR,1998,0.1,MIC
+Lao PDR,1997,0.1,MIC
+Lao PDR,1996,0.1,MIC
+Lao PDR,1995,0.1,MIC
+Lao PDR,1994,0.1,MIC
+Lao PDR,1993,0.1,MIC
+Lao PDR,1992,0.1,MIC
+Lao PDR,1991,0.1,MIC
+Lao PDR,1990,0.1,MIC
+Lebanon,2017,0.1,MIC
+Lebanon,2016,0.1,MIC
+Lebanon,2015,0.1,MIC
+Lebanon,2014,0.1,MIC
+Lebanon,2013,0.1,MIC
+Lebanon,2012,0.1,MIC
+Lebanon,2011,0.1,MIC
+Lebanon,2010,0.1,MIC
+Lebanon,2009,0.1,MIC
+Lebanon,2008,0.1,MIC
+Lebanon,2007,0.1,MIC
+Lebanon,2006,0.1,MIC
+Lebanon,2005,0.1,MIC
+Lebanon,2004,0.1,MIC
+Lebanon,2003,0.1,MIC
+Lebanon,2002,0.1,MIC
+Lebanon,2001,0.1,MIC
+Lebanon,2000,0.1,MIC
+Lebanon,1999,0.1,MIC
+Lebanon,1998,0.1,MIC
+Lebanon,1997,0.1,MIC
+Lebanon,1996,0.1,MIC
+Lebanon,1995,0.1,MIC
+Lebanon,1994,0.1,MIC
+Lebanon,1993,0.1,MIC
+Lebanon,1992,0.1,MIC
+Lebanon,1991,0.1,MIC
+Lebanon,1990,0.1,MIC
+Libya,2017,0.1,MIC
+Libya,2016,0.1,MIC
+Libya,2015,0.1,MIC
+Libya,2014,0.1,MIC
+Libya,2013,0.1,MIC
+Libya,2012,0.1,MIC
+Libya,2011,0.1,MIC
+Libya,2010,0.1,MIC
+Libya,2009,0.1,MIC
+Libya,2008,0.1,MIC
+Libya,2007,0.1,MIC
+Libya,2006,0.1,MIC
+Libya,2005,0.1,MIC
+Libya,2004,0.1,MIC
+Libya,2003,0.1,MIC
+Libya,2002,0.1,MIC
+Libya,2001,0.1,MIC
+Libya,2000,0.1,MIC
+Libya,1999,0.1,MIC
+Libya,1998,0.1,MIC
+Libya,1997,0.1,MIC
+Libya,1996,0.1,MIC
+Libya,1995,0.1,MIC
+Libya,1994,0.1,MIC
+Libya,1993,0.1,MIC
+Libya,1992,0.1,MIC
+Libya,1991,0.1,MIC
+Libya,1990,0.1,MIC
+Sri Lanka,2017,0.1,MIC
+Sri Lanka,2016,0.1,MIC
+Sri Lanka,2015,0.1,MIC
+Sri Lanka,2014,0.1,MIC
+Sri Lanka,2013,0.1,MIC
+Sri Lanka,2012,0.1,MIC
+Sri Lanka,2011,0.1,MIC
+Sri Lanka,2010,0.1,MIC
+Sri Lanka,2009,0.1,MIC
+Sri Lanka,2008,0.1,MIC
+Sri Lanka,2007,0.1,MIC
+Sri Lanka,2006,0.1,MIC
+Sri Lanka,2005,0.1,MIC
+Sri Lanka,2004,0.1,MIC
+Sri Lanka,2003,0.1,MIC
+Sri Lanka,2002,0.1,MIC
+Sri Lanka,2001,0.1,MIC
+Sri Lanka,2000,0.1,MIC
+Sri Lanka,1999,0.1,MIC
+Sri Lanka,1998,0.1,MIC
+Sri Lanka,1997,0.1,MIC
+Sri Lanka,1996,0.1,MIC
+Sri Lanka,1995,0.1,MIC
+Sri Lanka,1994,0.1,MIC
+Sri Lanka,1993,0.1,MIC
+Sri Lanka,1992,0.1,MIC
+Sri Lanka,1991,0.1,MIC
+Sri Lanka,1990,0.1,MIC
+Lesotho,2017,4.3,MIC
+Lesotho,2016,4.4,MIC
+Lesotho,2015,4.5,MIC
+Lesotho,2014,4.5,MIC
+Lesotho,2013,4.5,MIC
+Lesotho,2012,4.5,MIC
+Lesotho,2011,4.5,MIC
+Lesotho,2010,4.5,MIC
+Lesotho,2009,4.5,MIC
+Lesotho,2008,4.5,MIC
+Lesotho,2007,4.6,MIC
+Lesotho,2006,4.7,MIC
+Lesotho,2005,5.0,MIC
+Lesotho,2004,5.3,MIC
+Lesotho,2003,5.6,MIC
+Lesotho,2002,6.0,MIC
+Lesotho,2001,6.3,MIC
+Lesotho,2000,6.6,MIC
+Lesotho,1999,6.7,MIC
+Lesotho,1998,6.6,MIC
+Lesotho,1997,6.3,MIC
+Lesotho,1996,5.7,MIC
+Lesotho,1995,5.0,MIC
+Lesotho,1994,4.1,MIC
+Lesotho,1993,3.3,MIC
+Lesotho,1992,2.5,MIC
+Lesotho,1991,1.9,MIC
+Lesotho,1990,1.4,MIC
+Morocco,2017,0.1,MIC
+Morocco,2016,0.1,MIC
+Morocco,2015,0.1,MIC
+Morocco,2014,0.1,MIC
+Morocco,2013,0.1,MIC
+Morocco,2012,0.1,MIC
+Morocco,2011,0.1,MIC
+Morocco,2010,0.1,MIC
+Morocco,2009,0.1,MIC
+Morocco,2008,0.1,MIC
+Morocco,2007,0.1,MIC
+Morocco,2006,0.1,MIC
+Morocco,2005,0.1,MIC
+Morocco,2004,0.1,MIC
+Morocco,2003,0.1,MIC
+Morocco,2002,0.1,MIC
+Morocco,2001,0.1,MIC
+Morocco,2000,0.1,MIC
+Morocco,1999,0.1,MIC
+Morocco,1998,0.1,MIC
+Morocco,1997,0.1,MIC
+Morocco,1996,0.1,MIC
+Morocco,1995,0.1,MIC
+Morocco,1994,0.1,MIC
+Morocco,1993,0.1,MIC
+Morocco,1992,0.1,MIC
+Morocco,1991,0.1,MIC
+Morocco,1990,0.1,MIC
+Moldova,2017,0.1,MIC
+Moldova,2016,0.1,MIC
+Moldova,2015,0.1,MIC
+Moldova,2014,0.1,MIC
+Moldova,2013,0.1,MIC
+Moldova,2012,0.1,MIC
+Moldova,2011,0.1,MIC
+Moldova,2010,0.1,MIC
+Moldova,2009,0.1,MIC
+Moldova,2008,0.1,MIC
+Moldova,2007,0.1,MIC
+Moldova,2006,0.1,MIC
+Moldova,2005,0.1,MIC
+Moldova,2004,0.1,MIC
+Moldova,2003,0.1,MIC
+Moldova,2002,0.1,MIC
+Moldova,2001,0.1,MIC
+Moldova,2000,0.1,MIC
+Moldova,1999,0.1,MIC
+Moldova,1998,0.1,MIC
+Moldova,1997,0.1,MIC
+Moldova,1996,0.1,MIC
+Moldova,1995,0.1,MIC
+Moldova,1994,0.1,MIC
+Moldova,1993,0.1,MIC
+Moldova,1992,0.1,MIC
+Moldova,1991,0.1,MIC
+Moldova,1990,0.1,MIC
+Mexico,2017,0.1,MIC
+Mexico,2016,0.1,MIC
+Mexico,2015,0.1,MIC
+Mexico,2014,0.1,MIC
+Mexico,2013,0.1,MIC
+Mexico,2012,0.1,MIC
+Mexico,2011,0.1,MIC
+Mexico,2010,0.1,MIC
+Mexico,2009,0.1,MIC
+Mexico,2008,0.1,MIC
+Mexico,2007,0.1,MIC
+Mexico,2006,0.1,MIC
+Mexico,2005,0.1,MIC
+Mexico,2004,0.1,MIC
+Mexico,2003,0.1,MIC
+Mexico,2002,0.1,MIC
+Mexico,2001,0.1,MIC
+Mexico,2000,0.1,MIC
+Mexico,1999,0.1,MIC
+Mexico,1998,0.1,MIC
+Mexico,1997,0.1,MIC
+Mexico,1996,0.1,MIC
+Mexico,1995,0.1,MIC
+Mexico,1994,0.1,MIC
+Mexico,1993,0.1,MIC
+Mexico,1992,0.1,MIC
+Mexico,1991,0.1,MIC
+Mexico,1990,0.1,MIC
+North Macedonia,2017,0.1,MIC
+North Macedonia,2016,0.1,MIC
+North Macedonia,2015,0.1,MIC
+North Macedonia,2014,0.1,MIC
+North Macedonia,2013,0.1,MIC
+North Macedonia,2012,0.1,MIC
+North Macedonia,2011,0.1,MIC
+North Macedonia,2010,0.1,MIC
+North Macedonia,2009,0.1,MIC
+North Macedonia,2008,0.1,MIC
+North Macedonia,2007,0.1,MIC
+North Macedonia,2006,0.1,MIC
+North Macedonia,2005,0.1,MIC
+North Macedonia,2004,0.1,MIC
+North Macedonia,2003,0.1,MIC
+North Macedonia,2002,0.1,MIC
+North Macedonia,2001,0.1,MIC
+North Macedonia,2000,0.1,MIC
+North Macedonia,1999,0.1,MIC
+North Macedonia,1998,0.1,MIC
+North Macedonia,1997,0.1,MIC
+North Macedonia,1996,0.1,MIC
+North Macedonia,1995,0.1,MIC
+North Macedonia,1994,0.1,MIC
+North Macedonia,1993,0.1,MIC
+North Macedonia,1992,0.1,MIC
+North Macedonia,1991,0.1,MIC
+North Macedonia,1990,0.1,MIC
+Myanmar,2017,0.4,MIC
+Myanmar,2016,0.4,MIC
+Myanmar,2015,0.4,MIC
+Myanmar,2014,0.4,MIC
+Myanmar,2013,0.4,MIC
+Myanmar,2012,0.5,MIC
+Myanmar,2011,0.5,MIC
+Myanmar,2010,0.5,MIC
+Myanmar,2009,0.6,MIC
+Myanmar,2008,0.6,MIC
+Myanmar,2007,0.6,MIC
+Myanmar,2006,0.7,MIC
+Myanmar,2005,0.7,MIC
+Myanmar,2004,0.8,MIC
+Myanmar,2003,0.8,MIC
+Myanmar,2002,0.8,MIC
+Myanmar,2001,0.8,MIC
+Myanmar,2000,0.7,MIC
+Myanmar,1999,0.7,MIC
+Myanmar,1998,0.6,MIC
+Myanmar,1997,0.6,MIC
+Myanmar,1996,0.6,MIC
+Myanmar,1995,0.5,MIC
+Myanmar,1994,0.5,MIC
+Myanmar,1993,0.5,MIC
+Myanmar,1992,0.5,MIC
+Myanmar,1991,0.3,MIC
+Myanmar,1990,0.2,MIC
+Montenegro,2017,0.1,MIC
+Montenegro,2016,0.1,MIC
+Montenegro,2015,0.1,MIC
+Montenegro,2014,0.1,MIC
+Montenegro,2013,0.1,MIC
+Montenegro,2012,0.1,MIC
+Montenegro,2011,0.1,MIC
+Montenegro,2010,0.1,MIC
+Montenegro,2009,0.1,MIC
+Montenegro,2008,0.1,MIC
+Montenegro,2007,0.1,MIC
+Montenegro,2006,0.1,MIC
+Montenegro,2005,0.1,MIC
+Montenegro,2004,0.1,MIC
+Montenegro,2003,0.1,MIC
+Montenegro,2002,0.1,MIC
+Montenegro,2001,0.1,MIC
+Montenegro,2000,0.1,MIC
+Montenegro,1999,0.1,MIC
+Montenegro,1998,0.1,MIC
+Montenegro,1997,0.1,MIC
+Montenegro,1996,0.1,MIC
+Montenegro,1995,0.1,MIC
+Montenegro,1994,0.1,MIC
+Montenegro,1993,0.1,MIC
+Montenegro,1992,0.1,MIC
+Montenegro,1991,0.1,MIC
+Montenegro,1990,0.1,MIC
+Mongolia,2017,0.1,MIC
+Mongolia,2016,0.1,MIC
+Mongolia,2015,0.1,MIC
+Mongolia,2014,0.1,MIC
+Mongolia,2013,0.1,MIC
+Mongolia,2012,0.1,MIC
+Mongolia,2011,0.1,MIC
+Mongolia,2010,0.1,MIC
+Mongolia,2009,0.1,MIC
+Mongolia,2008,0.1,MIC
+Mongolia,2007,0.1,MIC
+Mongolia,2006,0.1,MIC
+Mongolia,2005,0.1,MIC
+Mongolia,2004,0.1,MIC
+Mongolia,2003,0.1,MIC
+Mongolia,2002,0.1,MIC
+Mongolia,2001,0.1,MIC
+Mongolia,2000,0.1,MIC
+Mongolia,1999,0.1,MIC
+Mongolia,1998,0.1,MIC
+Mongolia,1997,0.1,MIC
+Mongolia,1996,0.1,MIC
+Mongolia,1995,0.1,MIC
+Mongolia,1994,0.1,MIC
+Mongolia,1993,0.1,MIC
+Mongolia,1992,0.1,MIC
+Mongolia,1991,0.1,MIC
+Mongolia,1990,0.1,MIC
+Mauritania,2017,0.1,MIC
+Mauritania,2016,0.1,MIC
+Mauritania,2015,0.1,MIC
+Mauritania,2014,0.1,MIC
+Mauritania,2013,0.1,MIC
+Mauritania,2012,0.1,MIC
+Mauritania,2011,0.1,MIC
+Mauritania,2010,0.1,MIC
+Mauritania,2009,0.1,MIC
+Mauritania,2008,0.1,MIC
+Mauritania,2007,0.1,MIC
+Mauritania,2006,0.1,MIC
+Mauritania,2005,0.1,MIC
+Mauritania,2004,0.2,MIC
+Mauritania,2003,0.2,MIC
+Mauritania,2002,0.2,MIC
+Mauritania,2001,0.2,MIC
+Mauritania,2000,0.2,MIC
+Mauritania,1999,0.2,MIC
+Mauritania,1998,0.2,MIC
+Mauritania,1997,0.2,MIC
+Mauritania,1996,0.1,MIC
+Mauritania,1995,0.1,MIC
+Mauritania,1994,0.1,MIC
+Mauritania,1993,0.1,MIC
+Mauritania,1992,0.1,MIC
+Mauritania,1991,0.1,MIC
+Mauritania,1990,0.1,MIC
+Mauritius,2017,0.2,MIC
+Mauritius,2016,0.2,MIC
+Mauritius,2015,0.2,MIC
+Mauritius,2014,0.2,MIC
+Mauritius,2013,0.2,MIC
+Mauritius,2012,0.2,MIC
+Mauritius,2011,0.2,MIC
+Mauritius,2010,0.2,MIC
+Mauritius,2009,0.2,MIC
+Mauritius,2008,0.2,MIC
+Mauritius,2007,0.2,MIC
+Mauritius,2006,0.2,MIC
+Mauritius,2005,0.2,MIC
+Mauritius,2004,0.2,MIC
+Mauritius,2003,0.2,MIC
+Mauritius,2002,0.2,MIC
+Mauritius,2001,0.2,MIC
+Mauritius,2000,0.1,MIC
+Mauritius,1999,0.1,MIC
+Mauritius,1998,0.1,MIC
+Mauritius,1997,0.1,MIC
+Mauritius,1996,0.1,MIC
+Mauritius,1995,0.1,MIC
+Mauritius,1994,0.1,MIC
+Mauritius,1993,0.1,MIC
+Mauritius,1992,0.1,MIC
+Mauritius,1991,0.1,MIC
+Mauritius,1990,0.1,MIC
+Malaysia,2017,0.3,MIC
+Malaysia,2016,0.3,MIC
+Malaysia,2015,0.3,MIC
+Malaysia,2014,0.3,MIC
+Malaysia,2013,0.3,MIC
+Malaysia,2012,0.3,MIC
+Malaysia,2011,0.3,MIC
+Malaysia,2010,0.3,MIC
+Malaysia,2009,0.3,MIC
+Malaysia,2008,0.3,MIC
+Malaysia,2007,0.3,MIC
+Malaysia,2006,0.3,MIC
+Malaysia,2005,0.3,MIC
+Malaysia,2004,0.3,MIC
+Malaysia,2003,0.3,MIC
+Malaysia,2002,0.3,MIC
+Malaysia,2001,0.3,MIC
+Malaysia,2000,0.4,MIC
+Malaysia,1999,0.4,MIC
+Malaysia,1998,0.4,MIC
+Malaysia,1997,0.4,MIC
+Malaysia,1996,0.4,MIC
+Malaysia,1995,0.5,MIC
+Malaysia,1994,0.5,MIC
+Malaysia,1993,0.4,MIC
+Malaysia,1992,0.4,MIC
+Malaysia,1991,0.3,MIC
+Malaysia,1990,0.2,MIC
+Namibia,2017,2.6,MIC
+Namibia,2016,2.6,MIC
+Namibia,2015,2.6,MIC
+Namibia,2014,2.6,MIC
+Namibia,2013,2.6,MIC
+Namibia,2012,2.6,MIC
+Namibia,2011,2.6,MIC
+Namibia,2010,2.6,MIC
+Namibia,2009,2.7,MIC
+Namibia,2008,2.7,MIC
+Namibia,2007,2.9,MIC
+Namibia,2006,3.0,MIC
+Namibia,2005,3.3,MIC
+Namibia,2004,3.5,MIC
+Namibia,2003,3.9,MIC
+Namibia,2002,4.2,MIC
+Namibia,2001,4.6,MIC
+Namibia,2000,4.9,MIC
+Namibia,1999,5.1,MIC
+Namibia,1998,5.1,MIC
+Namibia,1997,4.9,MIC
+Namibia,1996,4.5,MIC
+Namibia,1995,3.9,MIC
+Namibia,1994,3.2,MIC
+Namibia,1993,2.5,MIC
+Namibia,1992,1.9,MIC
+Namibia,1991,1.4,MIC
+Namibia,1990,1.0,MIC
+Nigeria,2017,0.5,MIC
+Nigeria,2016,0.5,MIC
+Nigeria,2015,0.5,MIC
+Nigeria,2014,0.5,MIC
+Nigeria,2013,0.5,MIC
+Nigeria,2012,0.5,MIC
+Nigeria,2011,0.5,MIC
+Nigeria,2010,0.5,MIC
+Nigeria,2009,0.5,MIC
+Nigeria,2008,0.5,MIC
+Nigeria,2007,0.5,MIC
+Nigeria,2006,0.5,MIC
+Nigeria,2005,0.5,MIC
+Nigeria,2004,0.6,MIC
+Nigeria,2003,0.6,MIC
+Nigeria,2002,0.6,MIC
+Nigeria,2001,0.7,MIC
+Nigeria,2000,0.7,MIC
+Nigeria,1999,0.8,MIC
+Nigeria,1998,0.8,MIC
+Nigeria,1997,0.8,MIC
+Nigeria,1996,0.8,MIC
+Nigeria,1995,0.8,MIC
+Nigeria,1994,0.7,MIC
+Nigeria,1993,0.7,MIC
+Nigeria,1992,0.6,MIC
+Nigeria,1991,0.6,MIC
+Nigeria,1990,0.5,MIC
+Nicaragua,2001,0.1,MIC
+Nicaragua,2000,0.1,MIC
+Nicaragua,1999,0.1,MIC
+Nicaragua,1998,0.1,MIC
+Nicaragua,1997,0.1,MIC
+Nicaragua,1996,0.1,MIC
+Nicaragua,1995,0.1,MIC
+Nicaragua,1994,0.1,MIC
+Nicaragua,1993,0.1,MIC
+Nicaragua,1992,0.1,MIC
+Nicaragua,1991,0.1,MIC
+Nicaragua,1990,0.1,MIC
+Nicaragua,2017,0.1,MIC
+Nicaragua,2016,0.1,MIC
+Nicaragua,2015,0.1,MIC
+Nicaragua,2014,0.1,MIC
+Nicaragua,2013,0.1,MIC
+Nicaragua,2012,0.1,MIC
+Nicaragua,2011,0.1,MIC
+Nicaragua,2010,0.1,MIC
+Nicaragua,2009,0.1,MIC
+Nicaragua,2008,0.1,MIC
+Nicaragua,2007,0.1,MIC
+Nicaragua,2006,0.1,MIC
+Nicaragua,2005,0.1,MIC
+Nicaragua,2004,0.1,MIC
+Nicaragua,2003,0.1,MIC
+Nicaragua,2002,0.1,MIC
+Pakistan,2017,0.1,MIC
+Pakistan,2016,0.1,MIC
+Pakistan,2015,0.1,MIC
+Pakistan,2014,0.1,MIC
+Pakistan,2013,0.1,MIC
+Pakistan,2012,0.1,MIC
+Pakistan,2011,0.1,MIC
+Pakistan,2010,0.1,MIC
+Pakistan,2009,0.1,MIC
+Pakistan,2008,0.1,MIC
+Pakistan,2007,0.1,MIC
+Pakistan,2006,0.1,MIC
+Pakistan,2005,0.1,MIC
+Pakistan,2004,0.1,MIC
+Pakistan,2003,0.1,MIC
+Pakistan,2002,0.1,MIC
+Pakistan,2001,0.1,MIC
+Pakistan,2000,0.1,MIC
+Pakistan,1999,0.1,MIC
+Pakistan,1998,0.1,MIC
+Pakistan,1997,0.1,MIC
+Pakistan,1996,0.1,MIC
+Pakistan,1995,0.1,MIC
+Pakistan,1994,0.1,MIC
+Pakistan,1993,0.1,MIC
+Pakistan,1992,0.1,MIC
+Pakistan,1991,0.1,MIC
+Pakistan,1990,0.1,MIC
+Peru,2017,0.1,MIC
+Peru,2016,0.1,MIC
+Peru,2015,0.1,MIC
+Peru,2014,0.1,MIC
+Peru,2013,0.1,MIC
+Peru,2012,0.1,MIC
+Peru,2011,0.1,MIC
+Peru,2010,0.1,MIC
+Peru,2009,0.1,MIC
+Peru,2008,0.1,MIC
+Peru,2007,0.1,MIC
+Peru,2006,0.1,MIC
+Peru,2005,0.1,MIC
+Peru,2004,0.1,MIC
+Peru,2003,0.1,MIC
+Peru,2002,0.1,MIC
+Peru,2001,0.1,MIC
+Peru,2000,0.1,MIC
+Peru,1999,0.1,MIC
+Peru,1998,0.2,MIC
+Peru,1997,0.2,MIC
+Peru,1996,0.2,MIC
+Peru,1995,0.2,MIC
+Peru,1994,0.2,MIC
+Peru,1993,0.2,MIC
+Peru,1992,0.2,MIC
+Peru,1991,0.2,MIC
+Peru,1990,0.2,MIC
+Philippines,2017,0.3,MIC
+Philippines,2016,0.2,MIC
+Philippines,2015,0.2,MIC
+Philippines,2014,0.2,MIC
+Philippines,2013,0.1,MIC
+Philippines,2012,0.1,MIC
+Philippines,2011,0.1,MIC
+Philippines,2010,0.1,MIC
+Philippines,2009,0.1,MIC
+Philippines,2008,0.1,MIC
+Philippines,2007,0.1,MIC
+Philippines,2006,0.1,MIC
+Philippines,2005,0.1,MIC
+Philippines,2004,0.1,MIC
+Philippines,2003,0.1,MIC
+Philippines,2002,0.1,MIC
+Philippines,2001,0.1,MIC
+Philippines,2000,0.1,MIC
+Philippines,1999,0.1,MIC
+Philippines,1998,0.1,MIC
+Philippines,1997,0.1,MIC
+Philippines,1996,0.1,MIC
+Philippines,1995,0.1,MIC
+Philippines,1994,0.1,MIC
+Philippines,1993,0.1,MIC
+Philippines,1992,0.1,MIC
+Philippines,1991,0.1,MIC
+Philippines,1990,0.1,MIC
+Papua New Guinea,2017,0.2,MIC
+Papua New Guinea,2016,0.1,MIC
+Papua New Guinea,2015,0.1,MIC
+Papua New Guinea,2014,0.1,MIC
+Papua New Guinea,2013,0.1,MIC
+Papua New Guinea,2012,0.1,MIC
+Papua New Guinea,2011,0.1,MIC
+Papua New Guinea,2010,0.1,MIC
+Papua New Guinea,2009,0.1,MIC
+Papua New Guinea,2008,0.2,MIC
+Papua New Guinea,2007,0.2,MIC
+Papua New Guinea,2006,0.2,MIC
+Papua New Guinea,2005,0.3,MIC
+Papua New Guinea,2004,0.3,MIC
+Papua New Guinea,2003,0.3,MIC
+Papua New Guinea,2002,0.3,MIC
+Papua New Guinea,2001,0.3,MIC
+Papua New Guinea,2000,0.2,MIC
+Papua New Guinea,1999,0.2,MIC
+Papua New Guinea,1998,0.2,MIC
+Papua New Guinea,1997,0.2,MIC
+Papua New Guinea,1996,0.1,MIC
+Papua New Guinea,1995,0.1,MIC
+Papua New Guinea,1994,0.1,MIC
+Papua New Guinea,1993,0.1,MIC
+Papua New Guinea,1992,0.1,MIC
+Papua New Guinea,1991,0.1,MIC
+Papua New Guinea,1990,0.1,MIC
+Paraguay,2017,0.2,MIC
+Paraguay,2016,0.2,MIC
+Paraguay,2015,0.2,MIC
+Paraguay,2014,0.3,MIC
+Paraguay,2013,0.3,MIC
+Paraguay,2012,0.3,MIC
+Paraguay,2011,0.3,MIC
+Paraguay,2010,0.3,MIC
+Paraguay,2009,0.3,MIC
+Paraguay,2008,0.3,MIC
+Paraguay,2007,0.4,MIC
+Paraguay,2006,0.4,MIC
+Paraguay,2005,0.4,MIC
+Paraguay,2004,0.5,MIC
+Paraguay,2003,0.5,MIC
+Paraguay,2002,0.5,MIC
+Paraguay,2001,0.5,MIC
+Paraguay,2000,0.5,MIC
+Paraguay,1999,0.5,MIC
+Paraguay,1998,0.4,MIC
+Paraguay,1997,0.4,MIC
+Paraguay,1996,0.3,MIC
+Paraguay,1995,0.2,MIC
+Paraguay,1994,0.2,MIC
+Paraguay,1993,0.1,MIC
+Paraguay,1992,0.1,MIC
+Paraguay,1991,0.1,MIC
+Paraguay,1990,0.1,MIC
+Romania,2017,0.1,MIC
+Romania,2016,0.1,MIC
+Romania,2015,0.1,MIC
+Romania,2014,0.1,MIC
+Romania,2013,0.1,MIC
+Romania,2012,0.1,MIC
+Romania,2011,0.1,MIC
+Romania,2010,0.1,MIC
+Romania,2009,0.1,MIC
+Romania,2008,0.1,MIC
+Romania,2007,0.1,MIC
+Romania,2006,0.1,MIC
+Romania,2005,0.1,MIC
+Romania,2004,0.1,MIC
+Romania,2003,0.1,MIC
+Romania,2002,0.1,MIC
+Romania,2001,0.1,MIC
+Romania,2000,0.1,MIC
+Romania,1999,0.1,MIC
+Romania,1998,0.1,MIC
+Romania,1997,0.1,MIC
+Romania,1996,0.1,MIC
+Romania,1995,0.1,MIC
+Romania,1994,0.1,MIC
+Romania,1993,0.1,MIC
+Romania,1992,0.1,MIC
+Romania,1991,0.1,MIC
+Romania,1990,0.1,MIC
+Sudan,2017,0.1,MIC
+Sudan,2016,0.1,MIC
+Sudan,2015,0.1,MIC
+Sudan,2014,0.1,MIC
+Sudan,2013,0.1,MIC
+Sudan,2012,0.1,MIC
+Sudan,2011,0.1,MIC
+Sudan,2010,0.1,MIC
+Sudan,2009,0.1,MIC
+Sudan,2008,0.1,MIC
+Sudan,2007,0.1,MIC
+Sudan,2006,0.1,MIC
+Sudan,2005,0.1,MIC
+Sudan,2004,0.1,MIC
+Sudan,2003,0.1,MIC
+Sudan,2002,0.1,MIC
+Sudan,2001,0.1,MIC
+Sudan,2000,0.1,MIC
+Sudan,1999,0.1,MIC
+Sudan,1998,0.1,MIC
+Sudan,1997,0.1,MIC
+Sudan,1996,0.1,MIC
+Sudan,1995,0.1,MIC
+Sudan,1994,0.1,MIC
+Sudan,1993,0.1,MIC
+Sudan,1992,0.1,MIC
+Sudan,1991,0.1,MIC
+Sudan,1990,0.1,MIC
+Senegal,2017,0.1,MIC
+Senegal,2016,0.1,MIC
+Senegal,2015,0.1,MIC
+Senegal,2014,0.1,MIC
+Senegal,2013,0.1,MIC
+Senegal,2012,0.1,MIC
+Senegal,2011,0.1,MIC
+Senegal,2010,0.1,MIC
+Senegal,2009,0.1,MIC
+Senegal,2008,0.1,MIC
+Senegal,2007,0.1,MIC
+Senegal,2006,0.1,MIC
+Senegal,2005,0.2,MIC
+Senegal,2004,0.2,MIC
+Senegal,2003,0.2,MIC
+Senegal,2002,0.2,MIC
+Senegal,2001,0.2,MIC
+Senegal,2000,0.2,MIC
+Senegal,1999,0.2,MIC
+Senegal,1998,0.2,MIC
+Senegal,1997,0.2,MIC
+Senegal,1996,0.2,MIC
+Senegal,1995,0.1,MIC
+Senegal,1994,0.1,MIC
+Senegal,1993,0.1,MIC
+Senegal,1992,0.1,MIC
+Senegal,1991,0.1,MIC
+Senegal,1990,0.1,MIC
+El Salvador,2017,0.2,MIC
+El Salvador,2016,0.2,MIC
+El Salvador,2015,0.3,MIC
+El Salvador,2014,0.3,MIC
+El Salvador,2013,0.3,MIC
+El Salvador,2012,0.3,MIC
+El Salvador,2011,0.3,MIC
+El Salvador,2010,0.4,MIC
+El Salvador,2009,0.4,MIC
+El Salvador,2008,0.4,MIC
+El Salvador,2007,0.5,MIC
+El Salvador,2006,0.5,MIC
+El Salvador,2005,0.5,MIC
+El Salvador,2004,0.5,MIC
+El Salvador,2003,0.5,MIC
+El Salvador,2002,0.6,MIC
+El Salvador,2001,0.6,MIC
+El Salvador,2000,0.6,MIC
+El Salvador,1999,0.5,MIC
+El Salvador,1998,0.5,MIC
+El Salvador,1997,0.5,MIC
+El Salvador,1996,0.4,MIC
+El Salvador,1995,0.4,MIC
+El Salvador,1994,0.4,MIC
+El Salvador,1993,0.3,MIC
+El Salvador,1992,0.3,MIC
+El Salvador,1991,0.2,MIC
+El Salvador,1990,0.2,MIC
+Serbia,2017,0.1,MIC
+Serbia,2016,0.1,MIC
+Serbia,2015,0.1,MIC
+Serbia,2014,0.1,MIC
+Serbia,2013,0.1,MIC
+Serbia,2012,0.1,MIC
+Serbia,2011,0.1,MIC
+Serbia,2010,0.1,MIC
+Serbia,2009,0.1,MIC
+Serbia,2008,0.1,MIC
+Serbia,2007,0.1,MIC
+Serbia,2006,0.1,MIC
+Serbia,2005,0.1,MIC
+Serbia,2004,0.1,MIC
+Serbia,2003,0.1,MIC
+Serbia,2002,0.1,MIC
+Serbia,2001,0.1,MIC
+Serbia,2000,0.1,MIC
+Serbia,1999,0.1,MIC
+Serbia,1998,0.1,MIC
+Serbia,1997,0.1,MIC
+Serbia,1996,0.1,MIC
+Serbia,1995,0.1,MIC
+Serbia,1994,0.1,MIC
+Serbia,1993,0.1,MIC
+Serbia,1992,0.1,MIC
+Serbia,1991,0.1,MIC
+Serbia,1990,0.1,MIC
+Suriname,2017,0.3,MIC
+Suriname,2016,0.3,MIC
+Suriname,2015,0.3,MIC
+Suriname,2014,0.3,MIC
+Suriname,2013,0.3,MIC
+Suriname,2012,0.3,MIC
+Suriname,2011,0.3,MIC
+Suriname,2010,0.3,MIC
+Suriname,2009,0.3,MIC
+Suriname,2008,0.3,MIC
+Suriname,2007,0.3,MIC
+Suriname,2006,0.3,MIC
+Suriname,2005,0.3,MIC
+Suriname,2004,0.4,MIC
+Suriname,2003,0.4,MIC
+Suriname,2002,0.4,MIC
+Suriname,2001,0.4,MIC
+Suriname,2000,0.4,MIC
+Suriname,1999,0.4,MIC
+Suriname,1998,0.3,MIC
+Suriname,1997,0.3,MIC
+Suriname,1996,0.3,MIC
+Suriname,1995,0.2,MIC
+Suriname,1994,0.2,MIC
+Suriname,1993,0.2,MIC
+Suriname,1992,0.1,MIC
+Suriname,1991,0.1,MIC
+Suriname,1990,0.1,MIC
+Eswatini,2017,3.1,MIC
+Eswatini,2016,3.1,MIC
+Eswatini,2015,3.1,MIC
+Eswatini,2014,3.1,MIC
+Eswatini,2013,3.3,MIC
+Eswatini,2012,3.5,MIC
+Eswatini,2011,3.8,MIC
+Eswatini,2010,4.3,MIC
+Eswatini,2009,4.8,MIC
+Eswatini,2008,5.2,MIC
+Eswatini,2007,5.6,MIC
+Eswatini,2006,5.9,MIC
+Eswatini,2005,6.0,MIC
+Eswatini,2004,6.3,MIC
+Eswatini,2003,6.7,MIC
+Eswatini,2002,7.1,MIC
+Eswatini,2001,7.6,MIC
+Eswatini,2000,8.1,MIC
+Eswatini,1999,8.4,MIC
+Eswatini,1998,8.7,MIC
+Eswatini,1997,8.7,MIC
+Eswatini,1996,8.2,MIC
+Eswatini,1995,7.4,MIC
+Eswatini,1994,6.0,MIC
+Eswatini,1993,4.5,MIC
+Eswatini,1992,3.0,MIC
+Eswatini,1991,1.8,MIC
+Eswatini,1990,1.0,MIC
+Thailand,2017,0.4,MIC
+Thailand,2016,0.4,MIC
+Thailand,2015,0.4,MIC
+Thailand,2014,0.4,MIC
+Thailand,2013,0.4,MIC
+Thailand,2012,0.5,MIC
+Thailand,2011,0.5,MIC
+Thailand,2010,0.5,MIC
+Thailand,2009,0.5,MIC
+Thailand,2008,0.5,MIC
+Thailand,2007,0.5,MIC
+Thailand,2006,0.5,MIC
+Thailand,2005,0.5,MIC
+Thailand,2004,0.6,MIC
+Thailand,2003,0.6,MIC
+Thailand,2002,0.7,MIC
+Thailand,2001,0.8,MIC
+Thailand,2000,0.9,MIC
+Thailand,1999,1.2,MIC
+Thailand,1998,1.5,MIC
+Thailand,1997,1.8,MIC
+Thailand,1996,2.3,MIC
+Thailand,1995,2.7,MIC
+Thailand,1994,3.1,MIC
+Thailand,1993,3.2,MIC
+Thailand,1992,3.1,MIC
+Thailand,1991,2.5,MIC
+Thailand,1990,1.6,MIC
+Tunisia,2017,0.1,MIC
+Tunisia,2016,0.1,MIC
+Tunisia,2015,0.1,MIC
+Tunisia,2014,0.1,MIC
+Tunisia,2013,0.1,MIC
+Tunisia,2012,0.1,MIC
+Tunisia,2011,0.1,MIC
+Tunisia,2010,0.1,MIC
+Tunisia,2009,0.1,MIC
+Tunisia,2008,0.1,MIC
+Tunisia,2007,0.1,MIC
+Tunisia,2006,0.1,MIC
+Tunisia,2005,0.1,MIC
+Tunisia,2004,0.1,MIC
+Tunisia,2003,0.1,MIC
+Tunisia,2002,0.1,MIC
+Tunisia,2001,0.1,MIC
+Tunisia,2000,0.1,MIC
+Tunisia,1999,0.1,MIC
+Tunisia,1998,0.1,MIC
+Tunisia,1997,0.1,MIC
+Tunisia,1996,0.1,MIC
+Tunisia,1995,0.1,MIC
+Tunisia,1994,0.1,MIC
+Tunisia,1993,0.1,MIC
+Tunisia,1992,0.1,MIC
+Tunisia,1991,0.1,MIC
+Tunisia,1990,0.1,MIC
+Ukraine,2017,0.1,MIC
+Ukraine,2016,0.1,MIC
+Ukraine,2015,0.2,MIC
+Ukraine,2014,0.2,MIC
+Ukraine,2013,0.2,MIC
+Ukraine,2012,0.2,MIC
+Ukraine,2011,0.2,MIC
+Ukraine,2010,0.3,MIC
+Ukraine,2009,0.3,MIC
+Ukraine,2008,0.3,MIC
+Ukraine,2007,0.4,MIC
+Ukraine,2006,0.4,MIC
+Ukraine,2005,0.5,MIC
+Ukraine,2004,0.6,MIC
+Ukraine,2003,0.6,MIC
+Ukraine,2002,0.6,MIC
+Ukraine,2001,0.7,MIC
+Ukraine,2000,0.7,MIC
+Ukraine,1999,0.7,MIC
+Ukraine,1998,0.7,MIC
+Ukraine,1997,0.6,MIC
+Ukraine,1996,0.5,MIC
+Ukraine,1995,0.4,MIC
+Ukraine,1994,0.3,MIC
+Ukraine,1993,0.1,MIC
+Ukraine,1992,0.1,MIC
+Ukraine,1991,0.1,MIC
+Ukraine,1990,0.1,MIC
+Uzbekistan,2017,0.1,MIC
+Uzbekistan,2016,0.1,MIC
+Uzbekistan,2015,0.1,MIC
+Uzbekistan,2014,0.1,MIC
+Uzbekistan,2013,0.1,MIC
+Uzbekistan,2012,0.1,MIC
+Uzbekistan,2011,0.1,MIC
+Uzbekistan,2010,0.1,MIC
+Uzbekistan,2009,0.1,MIC
+Uzbekistan,2008,0.1,MIC
+Uzbekistan,2007,0.1,MIC
+Uzbekistan,2006,0.1,MIC
+Uzbekistan,2005,0.1,MIC
+Uzbekistan,2004,0.1,MIC
+Uzbekistan,2003,0.1,MIC
+Uzbekistan,2002,0.1,MIC
+Uzbekistan,2001,0.1,MIC
+Uzbekistan,2000,0.1,MIC
+Uzbekistan,1999,0.1,MIC
+Uzbekistan,1998,0.1,MIC
+Uzbekistan,1997,0.1,MIC
+Uzbekistan,1996,0.1,MIC
+Uzbekistan,1995,0.1,MIC
+Uzbekistan,1994,0.1,MIC
+Uzbekistan,1993,0.1,MIC
+Uzbekistan,1992,0.1,MIC
+Uzbekistan,1991,0.1,MIC
+Uzbekistan,1990,0.1,MIC
+Vietnam,2017,0.1,MIC
+Vietnam,2016,0.1,MIC
+Vietnam,2015,0.1,MIC
+Vietnam,2014,0.1,MIC
+Vietnam,2013,0.1,MIC
+Vietnam,2012,0.1,MIC
+Vietnam,2011,0.1,MIC
+Vietnam,2010,0.1,MIC
+Vietnam,2009,0.1,MIC
+Vietnam,2008,0.1,MIC
+Vietnam,2007,0.1,MIC
+Vietnam,2006,0.1,MIC
+Vietnam,2005,0.1,MIC
+Vietnam,2004,0.1,MIC
+Vietnam,2003,0.1,MIC
+Vietnam,2002,0.1,MIC
+Vietnam,2001,0.1,MIC
+Vietnam,2000,0.1,MIC
+Vietnam,1999,0.1,MIC
+Vietnam,1998,0.1,MIC
+Vietnam,1997,0.1,MIC
+Vietnam,1996,0.1,MIC
+Vietnam,1995,0.1,MIC
+Vietnam,1994,0.1,MIC
+Vietnam,1993,0.1,MIC
+Vietnam,1992,0.1,MIC
+Vietnam,1991,0.1,MIC
+Vietnam,1990,0.1,MIC
+South Africa,2017,3.7,MIC
+South Africa,2016,3.8,MIC
+South Africa,2015,3.8,MIC
+South Africa,2014,3.8,MIC
+South Africa,2013,3.8,MIC
+South Africa,2012,3.9,MIC
+South Africa,2011,4.0,MIC
+South Africa,2010,4.1,MIC
+South Africa,2009,4.2,MIC
+South Africa,2008,4.3,MIC
+South Africa,2007,4.4,MIC
+South Africa,2006,4.6,MIC
+South Africa,2005,4.7,MIC
+South Africa,2004,4.8,MIC
+South Africa,2003,4.9,MIC
+South Africa,2002,4.9,MIC
+South Africa,2001,5.0,MIC
+South Africa,2000,4.9,MIC
+South Africa,1999,4.8,MIC
+South Africa,1998,4.4,MIC
+South Africa,1997,3.9,MIC
+South Africa,1996,3.2,MIC
+South Africa,1995,2.5,MIC
+South Africa,1994,1.7,MIC
+South Africa,1993,1.1,MIC
+South Africa,1992,0.7,MIC
+South Africa,1991,0.4,MIC
+South Africa,1990,0.2,MIC
+Zambia,2017,2.5,MIC
+Zambia,2016,2.5,MIC
+Zambia,2015,2.6,MIC
+Zambia,2014,2.6,MIC
+Zambia,2013,2.7,MIC
+Zambia,2012,2.7,MIC
+Zambia,2011,2.8,MIC
+Zambia,2010,2.8,MIC
+Zambia,2009,2.8,MIC
+Zambia,2008,2.9,MIC
+Zambia,2007,2.9,MIC
+Zambia,2006,3.0,MIC
+Zambia,2005,3.1,MIC
+Zambia,2004,3.3,MIC
+Zambia,2003,3.5,MIC
+Zambia,2002,3.7,MIC
+Zambia,2001,3.9,MIC
+Zambia,2000,4.2,MIC
+Zambia,1999,4.6,MIC
+Zambia,1998,5.0,MIC
+Zambia,1997,5.3,MIC
+Zambia,1996,5.7,MIC
+Zambia,1995,6.0,MIC
+Zambia,1994,6.2,MIC
+Zambia,1993,6.3,MIC
+Zambia,1992,6.2,MIC
+Zambia,1991,5.9,MIC
+Zambia,1990,5.5,MIC
+Zimbabwe,2017,3.3,MIC
+Zimbabwe,2016,3.3,MIC
+Zimbabwe,2015,3.4,MIC
+Zimbabwe,2014,3.4,MIC
+Zimbabwe,2013,3.5,MIC
+Zimbabwe,2012,3.5,MIC
+Zimbabwe,2011,3.5,MIC
+Zimbabwe,2010,3.5,MIC
+Zimbabwe,2009,3.5,MIC
+Zimbabwe,2008,3.6,MIC
+Zimbabwe,2007,3.7,MIC
+Zimbabwe,2006,3.8,MIC
+Zimbabwe,2005,4.0,MIC
+Zimbabwe,2004,4.3,MIC
+Zimbabwe,2003,4.6,MIC
+Zimbabwe,2002,5.0,MIC
+Zimbabwe,2001,5.6,MIC
+Zimbabwe,2000,6.3,MIC
+Zimbabwe,1999,7.2,MIC
+Zimbabwe,1998,8.1,MIC
+Zimbabwe,1997,9.2,MIC
+Zimbabwe,1996,10.3,MIC
+Zimbabwe,1995,11.2,MIC
+Zimbabwe,1994,11.9,MIC
+Zimbabwe,1993,12.3,MIC
+Zimbabwe,1992,12.2,MIC
+Zimbabwe,1991,11.7,MIC
+Zimbabwe,1990,10.6,MIC
+Afghanistan,2017,0.1,LIC
+Afghanistan,2016,0.1,LIC
+Afghanistan,2015,0.1,LIC
+Afghanistan,2014,0.1,LIC
+Afghanistan,2013,0.1,LIC
+Afghanistan,2012,0.1,LIC
+Afghanistan,2011,0.1,LIC
+Afghanistan,2010,0.1,LIC
+Afghanistan,2009,0.1,LIC
+Afghanistan,2008,0.1,LIC
+Afghanistan,2007,0.1,LIC
+Afghanistan,2006,0.1,LIC
+Afghanistan,2005,0.1,LIC
+Afghanistan,2004,0.1,LIC
+Afghanistan,2003,0.1,LIC
+Afghanistan,2002,0.1,LIC
+Afghanistan,2001,0.1,LIC
+Afghanistan,2000,0.1,LIC
+Afghanistan,1999,0.1,LIC
+Afghanistan,1998,0.1,LIC
+Afghanistan,1997,0.1,LIC
+Afghanistan,1996,0.1,LIC
+Afghanistan,1995,0.1,LIC
+Afghanistan,1994,0.1,LIC
+Afghanistan,1993,0.1,LIC
+Afghanistan,1992,0.1,LIC
+Afghanistan,1991,0.1,LIC
+Afghanistan,1990,0.1,LIC
+Burundi,2017,0.5,LIC
+Burundi,2016,0.5,LIC
+Burundi,2015,0.5,LIC
+Burundi,2014,0.5,LIC
+Burundi,2013,0.5,LIC
+Burundi,2012,0.5,LIC
+Burundi,2011,0.5,LIC
+Burundi,2010,0.5,LIC
+Burundi,2009,0.5,LIC
+Burundi,2008,0.5,LIC
+Burundi,2007,0.4,LIC
+Burundi,2006,0.4,LIC
+Burundi,2005,0.4,LIC
+Burundi,2004,0.4,LIC
+Burundi,2003,0.4,LIC
+Burundi,2002,0.4,LIC
+Burundi,2001,0.4,LIC
+Burundi,2000,0.4,LIC
+Burundi,1999,0.5,LIC
+Burundi,1998,0.6,LIC
+Burundi,1997,0.7,LIC
+Burundi,1996,0.8,LIC
+Burundi,1995,1.0,LIC
+Burundi,1994,1.1,LIC
+Burundi,1993,1.3,LIC
+Burundi,1992,1.4,LIC
+Burundi,1991,1.5,LIC
+Burundi,1990,1.4,LIC
+Benin,2017,0.2,LIC
+Benin,2016,0.2,LIC
+Benin,2015,0.2,LIC
+Benin,2014,0.2,LIC
+Benin,2013,0.2,LIC
+Benin,2012,0.2,LIC
+Benin,2011,0.2,LIC
+Benin,2010,0.2,LIC
+Benin,2009,0.2,LIC
+Benin,2008,0.2,LIC
+Benin,2007,0.2,LIC
+Benin,2006,0.3,LIC
+Benin,2005,0.3,LIC
+Benin,2004,0.3,LIC
+Benin,2003,0.3,LIC
+Benin,2002,0.3,LIC
+Benin,2001,0.4,LIC
+Benin,2000,0.4,LIC
+Benin,1999,0.4,LIC
+Benin,1998,0.4,LIC
+Benin,1997,0.5,LIC
+Benin,1996,0.4,LIC
+Benin,1995,0.4,LIC
+Benin,1994,0.4,LIC
+Benin,1993,0.3,LIC
+Benin,1992,0.2,LIC
+Benin,1991,0.2,LIC
+Benin,1990,0.1,LIC
+Burkina Faso,2017,0.3,LIC
+Burkina Faso,2016,0.3,LIC
+Burkina Faso,2015,0.3,LIC
+Burkina Faso,2014,0.3,LIC
+Burkina Faso,2013,0.3,LIC
+Burkina Faso,2012,0.4,LIC
+Burkina Faso,2011,0.4,LIC
+Burkina Faso,2010,0.4,LIC
+Burkina Faso,2009,0.4,LIC
+Burkina Faso,2008,0.4,LIC
+Burkina Faso,2007,0.4,LIC
+Burkina Faso,2006,0.4,LIC
+Burkina Faso,2005,0.4,LIC
+Burkina Faso,2004,0.4,LIC
+Burkina Faso,2003,0.4,LIC
+Burkina Faso,2002,0.4,LIC
+Burkina Faso,2001,0.5,LIC
+Burkina Faso,2000,0.5,LIC
+Burkina Faso,1999,0.6,LIC
+Burkina Faso,1998,0.7,LIC
+Burkina Faso,1997,0.8,LIC
+Burkina Faso,1996,0.9,LIC
+Burkina Faso,1995,1.1,LIC
+Burkina Faso,1994,1.3,LIC
+Burkina Faso,1993,1.5,LIC
+Burkina Faso,1992,1.6,LIC
+Burkina Faso,1991,1.8,LIC
+Burkina Faso,1990,1.8,LIC
+Central African Republic,2017,1.1,LIC
+Central African Republic,2016,1.1,LIC
+Central African Republic,2015,1.1,LIC
+Central African Republic,2014,1.2,LIC
+Central African Republic,2013,1.2,LIC
+Central African Republic,2012,1.2,LIC
+Central African Republic,2011,1.2,LIC
+Central African Republic,2010,1.2,LIC
+Central African Republic,2009,1.2,LIC
+Central African Republic,2008,1.2,LIC
+Central African Republic,2007,1.2,LIC
+Central African Republic,2006,1.2,LIC
+Central African Republic,2005,1.2,LIC
+Central African Republic,2004,1.2,LIC
+Central African Republic,2003,1.3,LIC
+Central African Republic,2002,1.3,LIC
+Central African Republic,2001,1.4,LIC
+Central African Republic,2000,1.6,LIC
+Central African Republic,1999,1.7,LIC
+Central African Republic,1998,1.9,LIC
+Central African Republic,1997,2.1,LIC
+Central African Republic,1996,2.3,LIC
+Central African Republic,1995,2.5,LIC
+Central African Republic,1994,2.6,LIC
+Central African Republic,1993,2.6,LIC
+Central African Republic,1992,2.6,LIC
+Central African Republic,1991,2.5,LIC
+Central African Republic,1990,2.1,LIC
+"Congo, Dem. Rep.",2017,0.2,LIC
+"Congo, Dem. Rep.",2016,0.2,LIC
+"Congo, Dem. Rep.",2015,0.2,LIC
+"Congo, Dem. Rep.",2014,0.3,LIC
+"Congo, Dem. Rep.",2013,0.3,LIC
+"Congo, Dem. Rep.",2012,0.3,LIC
+"Congo, Dem. Rep.",2011,0.3,LIC
+"Congo, Dem. Rep.",2010,0.3,LIC
+"Congo, Dem. Rep.",2009,0.3,LIC
+"Congo, Dem. Rep.",2008,0.3,LIC
+"Congo, Dem. Rep.",2007,0.3,LIC
+"Congo, Dem. Rep.",2006,0.3,LIC
+"Congo, Dem. Rep.",2005,0.3,LIC
+"Congo, Dem. Rep.",2004,0.3,LIC
+"Congo, Dem. Rep.",2003,0.3,LIC
+"Congo, Dem. Rep.",2002,0.3,LIC
+"Congo, Dem. Rep.",2001,0.3,LIC
+"Congo, Dem. Rep.",2000,0.3,LIC
+"Congo, Dem. Rep.",1999,0.3,LIC
+"Congo, Dem. Rep.",1998,0.4,LIC
+"Congo, Dem. Rep.",1997,0.4,LIC
+"Congo, Dem. Rep.",1996,0.4,LIC
+"Congo, Dem. Rep.",1995,0.4,LIC
+"Congo, Dem. Rep.",1994,0.5,LIC
+"Congo, Dem. Rep.",1993,0.5,LIC
+"Congo, Dem. Rep.",1992,0.5,LIC
+"Congo, Dem. Rep.",1991,0.6,LIC
+"Congo, Dem. Rep.",1990,0.6,LIC
+Eritrea,2017,0.2,LIC
+Eritrea,2016,0.2,LIC
+Eritrea,2015,0.2,LIC
+Eritrea,2014,0.2,LIC
+Eritrea,2013,0.2,LIC
+Eritrea,2012,0.2,LIC
+Eritrea,2011,0.2,LIC
+Eritrea,2010,0.2,LIC
+Eritrea,2009,0.2,LIC
+Eritrea,2008,0.2,LIC
+Eritrea,2007,0.2,LIC
+Eritrea,2006,0.2,LIC
+Eritrea,2005,0.2,LIC
+Eritrea,2004,0.2,LIC
+Eritrea,2003,0.2,LIC
+Eritrea,2002,0.2,LIC
+Eritrea,2001,0.2,LIC
+Eritrea,2000,0.3,LIC
+Eritrea,1999,0.3,LIC
+Eritrea,1998,0.3,LIC
+Eritrea,1997,0.4,LIC
+Eritrea,1996,0.4,LIC
+Eritrea,1995,0.5,LIC
+Eritrea,1994,0.5,LIC
+Eritrea,1993,0.5,LIC
+Eritrea,1992,0.5,LIC
+Eritrea,1991,0.4,LIC
+Eritrea,1990,0.4,LIC
+Ethiopia,2017,0.2,LIC
+Ethiopia,2016,0.2,LIC
+Ethiopia,2015,0.2,LIC
+Ethiopia,2014,0.2,LIC
+Ethiopia,2013,0.2,LIC
+Ethiopia,2012,0.2,LIC
+Ethiopia,2011,0.2,LIC
+Ethiopia,2010,0.2,LIC
+Ethiopia,2009,0.2,LIC
+Ethiopia,2008,0.2,LIC
+Ethiopia,2007,0.2,LIC
+Ethiopia,2006,0.2,LIC
+Ethiopia,2005,0.2,LIC
+Ethiopia,2004,0.2,LIC
+Ethiopia,2003,0.2,LIC
+Ethiopia,2002,0.3,LIC
+Ethiopia,2001,0.3,LIC
+Ethiopia,2000,0.3,LIC
+Ethiopia,1999,0.4,LIC
+Ethiopia,1998,0.4,LIC
+Ethiopia,1997,0.5,LIC
+Ethiopia,1996,0.6,LIC
+Ethiopia,1995,0.7,LIC
+Ethiopia,1994,0.7,LIC
+Ethiopia,1993,0.7,LIC
+Ethiopia,1992,0.7,LIC
+Ethiopia,1991,0.7,LIC
+Ethiopia,1990,0.6,LIC
+Guinea,2017,0.3,LIC
+Guinea,2016,0.3,LIC
+Guinea,2015,0.3,LIC
+Guinea,2014,0.3,LIC
+Guinea,2013,0.3,LIC
+Guinea,2012,0.3,LIC
+Guinea,2011,0.3,LIC
+Guinea,2010,0.3,LIC
+Guinea,2009,0.3,LIC
+Guinea,2008,0.3,LIC
+Guinea,2007,0.3,LIC
+Guinea,2006,0.3,LIC
+Guinea,2005,0.3,LIC
+Guinea,2004,0.4,LIC
+Guinea,2003,0.4,LIC
+Guinea,2002,0.4,LIC
+Guinea,2001,0.4,LIC
+Guinea,2000,0.4,LIC
+Guinea,1999,0.4,LIC
+Guinea,1998,0.4,LIC
+Guinea,1997,0.4,LIC
+Guinea,1996,0.4,LIC
+Guinea,1995,0.4,LIC
+Guinea,1994,0.4,LIC
+Guinea,1993,0.3,LIC
+Guinea,1992,0.3,LIC
+Guinea,1991,0.3,LIC
+Guinea,1990,0.2,LIC
+"Gambia, The",2017,0.2,LIC
+"Gambia, The",2016,0.2,LIC
+"Gambia, The",2015,0.2,LIC
+"Gambia, The",2014,0.2,LIC
+"Gambia, The",2013,0.2,LIC
+"Gambia, The",2012,0.2,LIC
+"Gambia, The",2011,0.2,LIC
+"Gambia, The",2010,0.2,LIC
+"Gambia, The",2009,0.2,LIC
+"Gambia, The",2008,0.2,LIC
+"Gambia, The",2007,0.2,LIC
+"Gambia, The",2006,0.2,LIC
+"Gambia, The",2005,0.2,LIC
+"Gambia, The",2004,0.2,LIC
+"Gambia, The",2003,0.2,LIC
+"Gambia, The",2002,0.2,LIC
+"Gambia, The",2001,0.2,LIC
+"Gambia, The",2000,0.2,LIC
+"Gambia, The",1999,0.2,LIC
+"Gambia, The",1998,0.2,LIC
+"Gambia, The",1997,0.2,LIC
+"Gambia, The",1996,0.1,LIC
+"Gambia, The",1995,0.1,LIC
+"Gambia, The",1994,0.1,LIC
+"Gambia, The",1993,0.1,LIC
+"Gambia, The",1992,0.1,LIC
+"Gambia, The",1991,0.1,LIC
+"Gambia, The",1990,0.1,LIC
+Guinea-Bissau,2017,0.9,LIC
+Guinea-Bissau,2016,0.9,LIC
+Guinea-Bissau,2015,0.9,LIC
+Guinea-Bissau,2014,0.9,LIC
+Guinea-Bissau,2013,0.9,LIC
+Guinea-Bissau,2012,0.9,LIC
+Guinea-Bissau,2011,0.9,LIC
+Guinea-Bissau,2010,0.9,LIC
+Guinea-Bissau,2009,0.9,LIC
+Guinea-Bissau,2008,0.9,LIC
+Guinea-Bissau,2007,0.9,LIC
+Guinea-Bissau,2006,1.0,LIC
+Guinea-Bissau,2005,1.0,LIC
+Guinea-Bissau,2004,1.0,LIC
+Guinea-Bissau,2003,1.0,LIC
+Guinea-Bissau,2002,1.1,LIC
+Guinea-Bissau,2001,1.1,LIC
+Guinea-Bissau,2000,1.1,LIC
+Guinea-Bissau,1999,1.0,LIC
+Guinea-Bissau,1998,1.0,LIC
+Guinea-Bissau,1997,0.9,LIC
+Guinea-Bissau,1996,0.8,LIC
+Guinea-Bissau,1995,0.7,LIC
+Guinea-Bissau,1994,0.6,LIC
+Guinea-Bissau,1993,0.5,LIC
+Guinea-Bissau,1992,0.4,LIC
+Guinea-Bissau,1991,0.3,LIC
+Guinea-Bissau,1990,0.2,LIC
+Haiti,2017,0.5,LIC
+Haiti,2016,0.5,LIC
+Haiti,2015,0.5,LIC
+Haiti,2014,0.5,LIC
+Haiti,2013,0.5,LIC
+Haiti,2012,0.5,LIC
+Haiti,2011,0.5,LIC
+Haiti,2010,0.5,LIC
+Haiti,2009,0.5,LIC
+Haiti,2008,0.5,LIC
+Haiti,2007,0.4,LIC
+Haiti,2006,0.4,LIC
+Haiti,2005,0.4,LIC
+Haiti,2004,0.4,LIC
+Haiti,2003,0.4,LIC
+Haiti,2002,0.4,LIC
+Haiti,2001,0.5,LIC
+Haiti,2000,0.5,LIC
+Haiti,1999,0.5,LIC
+Haiti,1998,0.6,LIC
+Haiti,1997,0.6,LIC
+Haiti,1996,0.7,LIC
+Haiti,1995,0.8,LIC
+Haiti,1994,0.9,LIC
+Haiti,1993,1.0,LIC
+Haiti,1992,1.1,LIC
+Haiti,1991,1.2,LIC
+Haiti,1990,1.2,LIC
+Liberia,2017,0.4,LIC
+Liberia,2016,0.4,LIC
+Liberia,2015,0.5,LIC
+Liberia,2014,0.5,LIC
+Liberia,2013,0.5,LIC
+Liberia,2012,0.5,LIC
+Liberia,2011,0.5,LIC
+Liberia,2010,0.5,LIC
+Liberia,2009,0.5,LIC
+Liberia,2008,0.5,LIC
+Liberia,2007,0.5,LIC
+Liberia,2006,0.5,LIC
+Liberia,2005,0.5,LIC
+Liberia,2004,0.5,LIC
+Liberia,2003,0.6,LIC
+Liberia,2002,0.6,LIC
+Liberia,2001,0.7,LIC
+Liberia,2000,0.7,LIC
+Liberia,1999,0.8,LIC
+Liberia,1998,0.8,LIC
+Liberia,1997,0.9,LIC
+Liberia,1996,1.0,LIC
+Liberia,1995,1.1,LIC
+Liberia,1994,1.1,LIC
+Liberia,1993,1.1,LIC
+Liberia,1992,1.1,LIC
+Liberia,1991,1.0,LIC
+Liberia,1990,0.8,LIC
+Madagascar,2017,0.2,LIC
+Madagascar,2016,0.2,LIC
+Madagascar,2015,0.2,LIC
+Madagascar,2014,0.2,LIC
+Madagascar,2013,0.1,LIC
+Madagascar,2012,0.1,LIC
+Madagascar,2011,0.1,LIC
+Madagascar,2010,0.1,LIC
+Madagascar,2009,0.1,LIC
+Madagascar,2008,0.1,LIC
+Madagascar,2007,0.1,LIC
+Madagascar,2006,0.1,LIC
+Madagascar,2005,0.2,LIC
+Madagascar,2004,0.2,LIC
+Madagascar,2003,0.2,LIC
+Madagascar,2002,0.2,LIC
+Madagascar,2001,0.2,LIC
+Madagascar,2000,0.2,LIC
+Madagascar,1999,0.2,LIC
+Madagascar,1998,0.1,LIC
+Madagascar,1997,0.1,LIC
+Madagascar,1996,0.1,LIC
+Madagascar,1995,0.1,LIC
+Madagascar,1994,0.1,LIC
+Madagascar,1993,0.1,LIC
+Madagascar,1992,0.1,LIC
+Madagascar,1991,0.1,LIC
+Madagascar,1990,0.1,LIC
+Mali,2017,0.4,LIC
+Mali,2016,0.4,LIC
+Mali,2015,0.4,LIC
+Mali,2014,0.4,LIC
+Mali,2013,0.4,LIC
+Mali,2012,0.4,LIC
+Mali,2011,0.4,LIC
+Mali,2010,0.4,LIC
+Mali,2009,0.4,LIC
+Mali,2008,0.3,LIC
+Mali,2007,0.3,LIC
+Mali,2006,0.3,LIC
+Mali,2005,0.3,LIC
+Mali,2004,0.4,LIC
+Mali,2003,0.4,LIC
+Mali,2002,0.4,LIC
+Mali,2001,0.4,LIC
+Mali,2000,0.5,LIC
+Mali,1999,0.5,LIC
+Mali,1998,0.6,LIC
+Mali,1997,0.6,LIC
+Mali,1996,0.7,LIC
+Mali,1995,0.7,LIC
+Mali,1994,0.8,LIC
+Mali,1993,0.8,LIC
+Mali,1992,0.7,LIC
+Mali,1991,0.7,LIC
+Mali,1990,0.6,LIC
+Mozambique,2017,3.0,LIC
+Mozambique,2016,3.0,LIC
+Mozambique,2015,3.0,LIC
+Mozambique,2014,3.0,LIC
+Mozambique,2013,3.0,LIC
+Mozambique,2012,2.9,LIC
+Mozambique,2011,2.9,LIC
+Mozambique,2010,2.8,LIC
+Mozambique,2009,2.8,LIC
+Mozambique,2008,2.8,LIC
+Mozambique,2007,2.9,LIC
+Mozambique,2006,2.9,LIC
+Mozambique,2005,3.0,LIC
+Mozambique,2004,3.1,LIC
+Mozambique,2003,3.2,LIC
+Mozambique,2002,3.2,LIC
+Mozambique,2001,3.2,LIC
+Mozambique,2000,3.1,LIC
+Mozambique,1999,3.0,LIC
+Mozambique,1998,2.8,LIC
+Mozambique,1997,2.5,LIC
+Mozambique,1996,2.3,LIC
+Mozambique,1995,2.0,LIC
+Mozambique,1994,1.7,LIC
+Mozambique,1993,1.4,LIC
+Mozambique,1992,1.1,LIC
+Mozambique,1991,0.9,LIC
+Mozambique,1990,0.7,LIC
+Malawi,2017,2.1,LIC
+Malawi,2016,2.1,LIC
+Malawi,2015,2.1,LIC
+Malawi,2014,2.1,LIC
+Malawi,2013,2.1,LIC
+Malawi,2012,2.1,LIC
+Malawi,2011,2.0,LIC
+Malawi,2010,1.9,LIC
+Malawi,2009,1.9,LIC
+Malawi,2008,1.9,LIC
+Malawi,2007,1.9,LIC
+Malawi,2006,1.9,LIC
+Malawi,2005,2.0,LIC
+Malawi,2004,2.1,LIC
+Malawi,2003,2.2,LIC
+Malawi,2002,2.3,LIC
+Malawi,2001,2.4,LIC
+Malawi,2000,2.6,LIC
+Malawi,1999,2.8,LIC
+Malawi,1998,2.9,LIC
+Malawi,1997,3.1,LIC
+Malawi,1996,3.2,LIC
+Malawi,1995,3.3,LIC
+Malawi,1994,3.3,LIC
+Malawi,1993,3.2,LIC
+Malawi,1992,3.0,LIC
+Malawi,1991,2.8,LIC
+Malawi,1990,2.5,LIC
+Niger,2017,0.1,LIC
+Niger,2016,0.1,LIC
+Niger,2015,0.1,LIC
+Niger,2014,0.1,LIC
+Niger,2013,0.1,LIC
+Niger,2012,0.1,LIC
+Niger,2011,0.1,LIC
+Niger,2010,0.1,LIC
+Niger,2009,0.1,LIC
+Niger,2008,0.1,LIC
+Niger,2007,0.1,LIC
+Niger,2006,0.1,LIC
+Niger,2005,0.1,LIC
+Niger,2004,0.1,LIC
+Niger,2003,0.1,LIC
+Niger,2002,0.1,LIC
+Niger,2001,0.2,LIC
+Niger,2000,0.2,LIC
+Niger,1999,0.2,LIC
+Niger,1998,0.2,LIC
+Niger,1997,0.2,LIC
+Niger,1996,0.2,LIC
+Niger,1995,0.2,LIC
+Niger,1994,0.1,LIC
+Niger,1993,0.1,LIC
+Niger,1992,0.1,LIC
+Niger,1991,0.1,LIC
+Niger,1990,0.1,LIC
+Nepal,2017,0.1,LIC
+Nepal,2016,0.1,LIC
+Nepal,2015,0.1,LIC
+Nepal,2014,0.1,LIC
+Nepal,2013,0.1,LIC
+Nepal,2012,0.1,LIC
+Nepal,2011,0.1,LIC
+Nepal,2010,0.1,LIC
+Nepal,2009,0.1,LIC
+Nepal,2008,0.1,LIC
+Nepal,2007,0.1,LIC
+Nepal,2006,0.1,LIC
+Nepal,2005,0.1,LIC
+Nepal,2004,0.1,LIC
+Nepal,2003,0.1,LIC
+Nepal,2002,0.1,LIC
+Nepal,2001,0.1,LIC
+Nepal,2000,0.1,LIC
+Nepal,1999,0.1,LIC
+Nepal,1998,0.1,LIC
+Nepal,1997,0.1,LIC
+Nepal,1996,0.1,LIC
+Nepal,1995,0.1,LIC
+Nepal,1994,0.1,LIC
+Nepal,1993,0.1,LIC
+Nepal,1992,0.1,LIC
+Nepal,1991,0.1,LIC
+Nepal,1990,0.1,LIC
+Rwanda,2017,0.6,LIC
+Rwanda,2016,0.6,LIC
+Rwanda,2015,0.6,LIC
+Rwanda,2014,0.7,LIC
+Rwanda,2013,0.7,LIC
+Rwanda,2012,0.7,LIC
+Rwanda,2011,0.7,LIC
+Rwanda,2010,0.7,LIC
+Rwanda,2009,0.7,LIC
+Rwanda,2008,0.7,LIC
+Rwanda,2007,0.6,LIC
+Rwanda,2006,0.6,LIC
+Rwanda,2005,0.6,LIC
+Rwanda,2004,0.6,LIC
+Rwanda,2003,0.7,LIC
+Rwanda,2002,0.7,LIC
+Rwanda,2001,0.8,LIC
+Rwanda,2000,0.8,LIC
+Rwanda,1999,0.9,LIC
+Rwanda,1998,1.0,LIC
+Rwanda,1997,1.1,LIC
+Rwanda,1996,1.2,LIC
+Rwanda,1995,1.3,LIC
+Rwanda,1994,1.4,LIC
+Rwanda,1993,1.5,LIC
+Rwanda,1992,1.5,LIC
+Rwanda,1991,1.5,LIC
+Rwanda,1990,1.5,LIC
+Sierra Leone,2017,0.6,LIC
+Sierra Leone,2016,0.6,LIC
+Sierra Leone,2015,0.6,LIC
+Sierra Leone,2014,0.6,LIC
+Sierra Leone,2013,0.6,LIC
+Sierra Leone,2012,0.6,LIC
+Sierra Leone,2011,0.6,LIC
+Sierra Leone,2010,0.6,LIC
+Sierra Leone,2009,0.6,LIC
+Sierra Leone,2008,0.6,LIC
+Sierra Leone,2007,0.6,LIC
+Sierra Leone,2006,0.6,LIC
+Sierra Leone,2005,0.6,LIC
+Sierra Leone,2004,0.7,LIC
+Sierra Leone,2003,0.7,LIC
+Sierra Leone,2002,0.7,LIC
+Sierra Leone,2001,0.7,LIC
+Sierra Leone,2000,0.7,LIC
+Sierra Leone,1999,0.8,LIC
+Sierra Leone,1998,0.8,LIC
+Sierra Leone,1997,0.8,LIC
+Sierra Leone,1996,0.8,LIC
+Sierra Leone,1995,0.7,LIC
+Sierra Leone,1994,0.7,LIC
+Sierra Leone,1993,0.6,LIC
+Sierra Leone,1992,0.6,LIC
+Sierra Leone,1991,0.5,LIC
+Sierra Leone,1990,0.5,LIC
+Somalia,2017,0.1,LIC
+Somalia,2016,0.1,LIC
+Somalia,2015,0.1,LIC
+Somalia,2014,0.1,LIC
+Somalia,2013,0.1,LIC
+Somalia,2012,0.1,LIC
+Somalia,2011,0.1,LIC
+Somalia,2010,0.1,LIC
+Somalia,2009,0.1,LIC
+Somalia,2008,0.1,LIC
+Somalia,2007,0.1,LIC
+Somalia,2006,0.1,LIC
+Somalia,2005,0.1,LIC
+Somalia,2004,0.1,LIC
+Somalia,2003,0.1,LIC
+Somalia,2002,0.1,LIC
+Somalia,2001,0.1,LIC
+Somalia,2000,0.1,LIC
+Somalia,1999,0.1,LIC
+Somalia,1998,0.1,LIC
+Somalia,1997,0.1,LIC
+Somalia,1996,0.1,LIC
+Somalia,1995,0.1,LIC
+Somalia,1994,0.1,LIC
+Somalia,1993,0.1,LIC
+Somalia,1992,0.1,LIC
+Somalia,1991,0.1,LIC
+Somalia,1990,0.1,LIC
+South Sudan,2017,0.7,LIC
+South Sudan,2016,0.7,LIC
+South Sudan,2015,0.6,LIC
+South Sudan,2014,0.6,LIC
+South Sudan,2013,0.6,LIC
+South Sudan,2012,0.6,LIC
+South Sudan,2011,0.6,LIC
+South Sudan,2010,0.6,LIC
+South Sudan,2009,0.6,LIC
+South Sudan,2008,0.6,LIC
+South Sudan,2007,0.6,LIC
+South Sudan,2006,0.6,LIC
+South Sudan,2005,0.6,LIC
+South Sudan,2004,0.6,LIC
+South Sudan,2003,0.6,LIC
+South Sudan,2002,0.7,LIC
+South Sudan,2001,0.7,LIC
+South Sudan,2000,0.7,LIC
+South Sudan,1999,0.7,LIC
+South Sudan,1998,0.7,LIC
+South Sudan,1997,0.7,LIC
+South Sudan,1996,0.7,LIC
+South Sudan,1995,0.6,LIC
+South Sudan,1994,0.6,LIC
+South Sudan,1993,0.5,LIC
+South Sudan,1992,0.4,LIC
+South Sudan,1991,0.4,LIC
+South Sudan,1990,0.3,LIC
+Syrian Arab Republic,2017,0.1,LIC
+Syrian Arab Republic,2016,0.1,LIC
+Syrian Arab Republic,2015,0.1,LIC
+Syrian Arab Republic,2014,0.1,LIC
+Syrian Arab Republic,2013,0.1,LIC
+Syrian Arab Republic,2012,0.1,LIC
+Syrian Arab Republic,2011,0.1,LIC
+Syrian Arab Republic,2010,0.1,LIC
+Syrian Arab Republic,2009,0.1,LIC
+Syrian Arab Republic,2008,0.1,LIC
+Syrian Arab Republic,2007,0.1,LIC
+Syrian Arab Republic,2006,0.1,LIC
+Syrian Arab Republic,2005,0.1,LIC
+Syrian Arab Republic,2004,0.1,LIC
+Syrian Arab Republic,2003,0.1,LIC
+Syrian Arab Republic,2002,0.1,LIC
+Syrian Arab Republic,2001,0.1,LIC
+Syrian Arab Republic,2000,0.1,LIC
+Syrian Arab Republic,1999,0.1,LIC
+Syrian Arab Republic,1998,0.1,LIC
+Syrian Arab Republic,1997,0.1,LIC
+Syrian Arab Republic,1996,0.1,LIC
+Syrian Arab Republic,1995,0.1,LIC
+Syrian Arab Republic,1994,0.1,LIC
+Syrian Arab Republic,1993,0.1,LIC
+Syrian Arab Republic,1992,0.1,LIC
+Syrian Arab Republic,1991,0.1,LIC
+Syrian Arab Republic,1990,0.1,LIC
+Chad,2017,0.5,LIC
+Chad,2016,0.6,LIC
+Chad,2015,0.6,LIC
+Chad,2014,0.6,LIC
+Chad,2013,0.6,LIC
+Chad,2012,0.6,LIC
+Chad,2011,0.6,LIC
+Chad,2010,0.6,LIC
+Chad,2009,0.6,LIC
+Chad,2008,0.6,LIC
+Chad,2007,0.6,LIC
+Chad,2006,0.7,LIC
+Chad,2005,0.7,LIC
+Chad,2004,0.7,LIC
+Chad,2003,0.7,LIC
+Chad,2002,0.8,LIC
+Chad,2001,0.8,LIC
+Chad,2000,0.9,LIC
+Chad,1999,0.9,LIC
+Chad,1998,1.0,LIC
+Chad,1997,1.0,LIC
+Chad,1996,1.1,LIC
+Chad,1995,1.1,LIC
+Chad,1994,1.1,LIC
+Chad,1993,1.1,LIC
+Chad,1992,1.0,LIC
+Chad,1991,0.9,LIC
+Chad,1990,0.8,LIC
+Togo,2017,0.5,LIC
+Togo,2016,0.5,LIC
+Togo,2015,0.5,LIC
+Togo,2014,0.5,LIC
+Togo,2013,0.5,LIC
+Togo,2012,0.5,LIC
+Togo,2011,0.5,LIC
+Togo,2010,0.4,LIC
+Togo,2009,0.4,LIC
+Togo,2008,0.5,LIC
+Togo,2007,0.5,LIC
+Togo,2006,0.5,LIC
+Togo,2005,0.5,LIC
+Togo,2004,0.5,LIC
+Togo,2003,0.6,LIC
+Togo,2002,0.6,LIC
+Togo,2001,0.6,LIC
+Togo,2000,0.7,LIC
+Togo,1999,0.8,LIC
+Togo,1998,0.8,LIC
+Togo,1997,0.8,LIC
+Togo,1996,0.8,LIC
+Togo,1995,0.8,LIC
+Togo,1994,0.7,LIC
+Togo,1993,0.7,LIC
+Togo,1992,0.6,LIC
+Togo,1991,0.5,LIC
+Togo,1990,0.4,LIC
+Tajikistan,2017,0.1,LIC
+Tajikistan,2016,0.1,LIC
+Tajikistan,2015,0.1,LIC
+Tajikistan,2014,0.1,LIC
+Tajikistan,2013,0.1,LIC
+Tajikistan,2012,0.1,LIC
+Tajikistan,2011,0.1,LIC
+Tajikistan,2010,0.1,LIC
+Tajikistan,2009,0.1,LIC
+Tajikistan,2008,0.1,LIC
+Tajikistan,2007,0.1,LIC
+Tajikistan,2006,0.1,LIC
+Tajikistan,2005,0.1,LIC
+Tajikistan,2004,0.1,LIC
+Tajikistan,2003,0.1,LIC
+Tajikistan,2002,0.1,LIC
+Tajikistan,2001,0.1,LIC
+Tajikistan,2000,0.1,LIC
+Tajikistan,1999,0.1,LIC
+Tajikistan,1998,0.1,LIC
+Tajikistan,1997,0.1,LIC
+Tajikistan,1996,0.1,LIC
+Tajikistan,1995,0.1,LIC
+Tajikistan,1994,0.1,LIC
+Tajikistan,1993,0.1,LIC
+Tajikistan,1992,0.1,LIC
+Tajikistan,1991,0.1,LIC
+Tajikistan,1990,0.1,LIC
+Tanzania,2017,1.2,LIC
+Tanzania,2016,1.2,LIC
+Tanzania,2015,1.3,LIC
+Tanzania,2014,1.3,LIC
+Tanzania,2013,1.3,LIC
+Tanzania,2012,1.3,LIC
+Tanzania,2011,1.3,LIC
+Tanzania,2010,1.3,LIC
+Tanzania,2009,1.3,LIC
+Tanzania,2008,1.3,LIC
+Tanzania,2007,1.3,LIC
+Tanzania,2006,1.3,LIC
+Tanzania,2005,1.4,LIC
+Tanzania,2004,1.4,LIC
+Tanzania,2003,1.5,LIC
+Tanzania,2002,1.6,LIC
+Tanzania,2001,1.7,LIC
+Tanzania,2000,1.8,LIC
+Tanzania,1999,1.9,LIC
+Tanzania,1998,2.0,LIC
+Tanzania,1997,2.1,LIC
+Tanzania,1996,2.2,LIC
+Tanzania,1995,2.3,LIC
+Tanzania,1994,2.3,LIC
+Tanzania,1993,2.2,LIC
+Tanzania,1992,2.1,LIC
+Tanzania,1991,2.0,LIC
+Tanzania,1990,1.8,LIC
+Uganda,2017,1.2,LIC
+Uganda,2016,1.2,LIC
+Uganda,2015,1.3,LIC
+Uganda,2014,1.4,LIC
+Uganda,2013,1.4,LIC
+Uganda,2012,1.5,LIC
+Uganda,2011,1.5,LIC
+Uganda,2010,1.6,LIC
+Uganda,2009,1.6,LIC
+Uganda,2008,1.6,LIC
+Uganda,2007,1.6,LIC
+Uganda,2006,1.5,LIC
+Uganda,2005,1.5,LIC
+Uganda,2004,1.5,LIC
+Uganda,2003,1.5,LIC
+Uganda,2002,1.4,LIC
+Uganda,2001,1.4,LIC
+Uganda,2000,1.4,LIC
+Uganda,1999,1.4,LIC
+Uganda,1998,1.4,LIC
+Uganda,1997,1.4,LIC
+Uganda,1996,1.4,LIC
+Uganda,1995,1.5,LIC
+Uganda,1994,1.6,LIC
+Uganda,1993,1.7,LIC
+Uganda,1992,1.9,LIC
+Uganda,1991,2.2,LIC
+Uganda,1990,2.4,LIC
+"Yemen, Rep.",2017,0.1,LIC
+"Yemen, Rep.",2016,0.1,LIC
+"Yemen, Rep.",2015,0.1,LIC
+"Yemen, Rep.",2014,0.1,LIC
+"Yemen, Rep.",2013,0.1,LIC
+"Yemen, Rep.",2012,0.1,LIC
+"Yemen, Rep.",2011,0.1,LIC
+"Yemen, Rep.",2010,0.1,LIC
+"Yemen, Rep.",2009,0.1,LIC
+"Yemen, Rep.",2008,0.1,LIC
+"Yemen, Rep.",2007,0.1,LIC
+"Yemen, Rep.",2006,0.1,LIC
+"Yemen, Rep.",2005,0.1,LIC
+"Yemen, Rep.",2004,0.1,LIC
+"Yemen, Rep.",2003,0.1,LIC
+"Yemen, Rep.",2002,0.1,LIC
+"Yemen, Rep.",2001,0.1,LIC
+"Yemen, Rep.",2000,0.1,LIC
+"Yemen, Rep.",1999,0.1,LIC
+"Yemen, Rep.",1998,0.1,LIC
+"Yemen, Rep.",1997,0.1,LIC
+"Yemen, Rep.",1996,0.1,LIC
+"Yemen, Rep.",1995,0.1,LIC
+"Yemen, Rep.",1994,0.1,LIC
+"Yemen, Rep.",1993,0.1,LIC
+"Yemen, Rep.",1992,0.1,LIC
+"Yemen, Rep.",1991,0.1,LIC
+"Yemen, Rep.",1990,0.1,LIC
